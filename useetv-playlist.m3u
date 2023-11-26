@@ -27,15 +27,42 @@ http://odx.9856.site/x6/view_20.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=fal
 http://odx.9856.site/x6/view_1.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
 #EXTINF:-1 tvg-id=" ابوظبي 2" tvg-logo="https://neewssports.com/wp-content/uploads/2023/04/img_6772-780x470.jpg" group-title="News",2GB Sydney (1080p)
 http://odx.9856.site/x6/view_3.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
-#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Undefined",2S TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8
-#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="Undefined",2TV (720p)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",2x2 (720p)
-https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="324.es" tvg-logo="https://i.imgur.com/l6NzX2t.png" group-title="News",3/24 (1080p)
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="3AW.au" tvg-logo="https://i.imgur.com/Z4MdB0S.png" group-title="Undefined",3AW Melbourne (1080p)
-https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1 tvg-id="شاهد سينما" tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+http://odx.9856.site/x3/view_46.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
+#EXTINF:-1 tvg-id="شاهد اكشن " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+http://odx.9856.site/x3/view_48.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
+#EXTINF:-1 tvg-id="شاهد افلام " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+http://odx.9856.site/x3/view_49.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
+#EXTINF:-1 tvg-id="شاهد رعب " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+http://odx.9856.site/x3/view_51.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
+#EXTINF:-1 tvg-id="شاهد لايف " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+http://odx.9856.site/x3/view_53.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
+#EXTINF:-1 tvg-id="شاهد مسرح " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+http://odx.9856.site/x3/view_65.m3u8?t=NSYgH6IkZKKkoK_ycFpsFw&x=1701064289&n=false
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p)
+
+#EXTINF:-1 tvg-id="شاهد " tvg-logo="https://www.joodek.com/storage/1945/60881c6b53068.png" group-title="General",2M Monde (360p
+
+
