@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/qorantv.jpg?v=6" group-title="NEWS",ALJAZEERA NEWS
 http://62.182.80.94:8080/tdn/tdn/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS HD" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS HD
 http://62.182.80.94:8080/tdn/tdn/2.m3u8
