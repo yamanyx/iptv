@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
-http://190.2.154.204:25461/tdn/tdn/1.m3u8
+http://62.182.80.94:8080/tdn/tdn/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS HD" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS HD
-http://190.2.154.204:25461/tdn/tdn/2.m3u8
+http://62.182.80.94:8080/tdn/tdn/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA MUBASHER" live="1" tvg-logo="http://teledunet.com/logos/Al_Jazeera_Mubasher_logo.png" group-title="NEWS",ALJAZEERA MUBASHER
-http://190.2.154.204:25461/tdn/tdn/3.m3u8
+http://62.182.80.94:8080/tdn/tdn/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA ENGLISH" live="1" tvg-logo="http://teledunet.com/logos/jen.webp" group-title="NEWS",ALJAZEERA ENGLISH
-http://190.2.154.204:25461/tdn/tdn/4.m3u8
+http://62.182.80.94:8080/tdn/tdn/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="NEWS",AL ARABIYA
-http://190.2.154.204:25461/tdn/tdn/54058.m3u8
+http://62.182.80.94:8080/tdn/tdn/54058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HD" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="NEWS",AL ARABIYA HD
-http://190.2.154.204:25461/tdn/tdn/5.m3u8
+http://62.182.80.94:8080/tdn/tdn/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="NEWS",AL ARABIYA HADATH
-http://190.2.154.204:25461/tdn/tdn/6.m3u8
+http://62.182.80.94:8080/tdn/tdn/6.m3u8
