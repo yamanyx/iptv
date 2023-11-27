@@ -95,3 +95,7 @@ http://odx.9856.site/x3/view_18.m3u8?t=9ZrFHwMGSwWM-kbqbheOjg&x=1701192770&n=fal
 http://odx.9856.site/x3/view_19.m3u8?t=9ZrFHwMGSwWM-kbqbheOjg&x=1701192770&n=false
 #EXTINF:-1 tvg-id=" SHOW 10  " tvg-logo="https://bestmoviesrightnow.com/wp-content/uploads/2021/11/Showtime-Logo.png" group-title="Movies",SHOW  10
 http://odx.9856.site/x3/view_20.m3u8?t=9ZrFHwMGSwWM-kbqbheOjg&x=1701192770&n=false
+#EXTINF:-1 tvg-id=" SHOW 10  " tvg-logo="https://bestmoviesrightnow.com/wp-content/uploads/2021/11/Showtime-Logo.png" group-title="Movies",SHOW  XX
+http://free.one24tv.com:80/96161700676746/96161700676746/1104
+#EXTINF:-1 tvg-id=" SHOW 10  " tvg-logo="https://bestmoviesrightnow.com/wp-content/uploads/2021/11/Showtime-Logo.png" group-title="Movies",SHOW  dd
+http://free.one24tv.com:80/live/96161700676746/96161700676746/1104.ts
