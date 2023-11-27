@@ -101,7 +101,7 @@ http://free.one24tv.com:80/96161700676746/96161700676746/1104
 http://free.one24tv.com:80/live/96161700676746/96161700676746/1104.ts
 #EXTINF:-1 tvg-id="  الجزيرة" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljazeera.jpg?v=6" group-title="NEWS",الجزيرة
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
-#EXTINF:-1 tvg-id="  العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alaan.jpg" group-title="NEWS",العربية
+#EXTINF:-1 tvg-id="  العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alarabiya.jpg" group-title="NEWS",العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="  العربية الحدث" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_arabiya_alhadath.jpg?v=6" group-title="NEWS",العربية الحدث
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
