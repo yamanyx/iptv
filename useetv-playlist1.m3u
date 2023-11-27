@@ -121,6 +121,11 @@ https://ikomg1.s.llnwi.net/alyaum-tv/alyaum-tv.m3u8
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id=" تركيا بلعربي " tvg-logo="https://cdnuploads.aa.com.tr/uploads/Contents/2019/01/07/thumbs_b_c_3833a6ad791df620fda82da09a334658.jpg?v=151242" group-title="NEWS",تركيا بلعربي
 https://tv-trtarabi.live.trt.com.tr/master_480.m3u8
-
+#EXTINF:-1 tvg-id=" اليوم " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/%D9%81%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%8A%D9%88%D9%85.jpg" group-title="NEWS",اليوم
+http://dztnfrvt.in:14281/1sgOfpi1XP/vhKsIjK5ot/23
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+#EXTINF:-1 tvg-id=" اليوم " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/%D9%81%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%8A%D9%88%D9%85.jpg" group-title="NEWS",RRRRRوم
+#EXTVLCOPT:http-referrer=http://yari.yariga.net/
+http://195.201.40.163/upload/images/logo8.m3u8
 
 
