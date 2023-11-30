@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 1 ARAB
 http://62.182.80.94:8080/tdn/tdn/8095.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 2 ARAB
-http://62.182.80.94:8080/live/tdn/tdn/62.m3u8
+http://oh2.teledunet.com:8080/live/tdn/tdn/62.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 3 ARAB
 http://62.182.80.94:8080/live/tdn/tdn/63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 4 ARAB
