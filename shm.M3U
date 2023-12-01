@@ -28,7 +28,7 @@ http://iptvstream.homes:8080/live/7e4b0dbd/1dd755dc3f/300330.m3u8
 http://iptvstream.homes:8080/live/7e4b0dbd/1dd755dc3f/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein SPORT 2" tvg-logo="https://besttvps.com/app/tv/news/panel/alhadath.png" group-title="News |  إخبارية",Al Hadath
 http://iptvstream.homes:8080/live/7e4b0dbd/1dd755dc3f/101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein SPORT 3" tvg-logo="https://besttvps.com/app/tv/news/panel/alhadath.png" group-title="News |  إخبارية",Al Hadath
+#EXTINF:-1 tvg-id="" tvg-name="Bein SPORT 3" tvg-logo="https://besttvps.com/app/tv/news/panel/alhadath.png" group-title="News |   إخبارية",Al Hadath
 http://iptvstream.homes:8080/live/7e4b0dbd/1dd755dc3f/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein SPORT 4" tvg-logo="https://besttvps.com/app/tv/news/panel/alhadath.png" group-title="News |  إخبارية",Al Hadath
 http://iptvstream.homes:8080/live/7e4b0dbd/1dd755dc3f/103.m3u8
