@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:RESOLUTION=640x360,CODECS="avc1.64001f,mp4a.40.2",BANDWIDTH=1000000
+https://salam-2-9.rutube.ru/dive/river-3-311.rutube.ru/PLv0jrVB2d_XmrQTuJ51UQ/stream/genetta-332.m9.rutube.ru/D0sw7-eGg7e-ZsQhvbAICw/1701619107/7959b8399de7700882cca35ea2aaa1dd/360p_stream.m3u8
+#EXT-X-STREAM-INF:RESOLUTION=640x360,CODECS="avc1.64001f,mp4a.40.2",BANDWIDTH=1000000
+https://river-7-701.rutube.ru/stream/genetta-332.m9.rutube.ru/PLv0jrVB2d_XmrQTuJ51UQ/1701619107/7959b8399de7700882cca35ea2aaa1dd/360p_stream.m3u8
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",BANDWIDTH=4000000
+https://salam-2-9.rutube.ru/dive/river-3-311.rutube.ru/PLv0jrVB2d_XmrQTuJ51UQ/stream/genetta-332.m9.rutube.ru/D0sw7-eGg7e-ZsQhvbAICw/1701619107/7959b8399de7700882cca35ea2aaa1dd/720p_stream.m3u8
+#EXT-X-STREAM-INF:RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",BANDWIDTH=4000000
+https://river-7-701.rutube.ru/stream/genetta-332.m9.rutube.ru/PLv0jrVB2d_XmrQTuJ51UQ/1701619107/7959b8399de7700882cca35ea2aaa1dd/720p_stream.m3u81619107/7959b8399de7700882cca35ea2aaa1dd/720p_stream.m3u8
