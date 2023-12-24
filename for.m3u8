@@ -3,5 +3,5 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXT-X-TARGETDURATION:36000
 #EXT-X-MEDIA-SEQUENCE:#EXTINF:36000,
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1703445202/ei/ci6IZY_tE6WH1d8PnIiG-A8/ip/54.254.162.138/id/5oqMdkAV2rg.1/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/rqh/1/hls_chunk_host/rr6---sn-u0g3uxax3-pnuk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1zI-YllzCcdE5AUe-4jvgVzZAbfM4x0FKk0aw/vprv/1/playlist_type/DVR/initcwndbps/1053750/mh/yV/mip/46.1.67.94/mm/44/mn/sn-u0g3uxax3-pnuk/ms/lva/mv/m/mvi/6/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1703423311/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgGJaE0RBB2yTzAosuIdpOlV-VBxuS9EWXZZ6aTA6qHAMCIQCbekyHwUiv6Il2ZdF3LDljU8xCEmny-8R15BuZrpsYZg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgAoDE0VuOy_VxEH7zidgUoKDkD_dTR7-En6NhR1M9bUYCIEZvxdRnNpZG6E66dHl1f3iyVdXMKpFamxZQfJFOObkV/playlist/index.m3u8
+http://mmn.mypsx.net:1935/live/mmnhdsport/index.m3u8
 #EXT-X-ENDLIST
