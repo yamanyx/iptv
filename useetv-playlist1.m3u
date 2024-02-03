@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Bein SPORT 1 HD" tvg-logo="https://www.apps7pro.com/wp-content/uploads/2022/02/Untitled-design-39.png" group-title="SPORT",Bein SPORT 1 HD
-https://airmaxtv.online/live/airmaxtv47x/airmaxtvpro625/2.m3u8#Intent;scheme=xmtv;package=com.flax.media.player;end
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/306.m3u8
 #EXTINF:-1 tvg-id="Bein SPORT  2 HD" tvg-logo="https://www.apps7pro.com/wp-content/uploads/2022/02/Untitled-design-39.png" group-title="SPORT",Bein SPORT 2 HD
 intent://45.141.156.29:2082/live/88mm8ww44854/39G8G92435/197.m3u8#Intent;scheme=xmtv;package=com.flax.media.player;end
 #EXTINF:-1 tvg-id="Bein SPORT  3 HD" tvg-logo="https://www.apps7pro.com/wp-content/uploads/2022/02/Untitled-design-39.png" group-title="SPORT",Bein SPORT 3 HD
