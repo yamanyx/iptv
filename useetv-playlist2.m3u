@@ -1,22 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
-http://62.182.80.94:8080/tdn/tdn/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS HD" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS HD
-http://62.182.80.94:8080/tdn/tdn/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA MUBASHER" live="1" tvg-logo="http://teledunet.com/logos/Al_Jazeera_Mubasher_logo.png" group-title="NEWS",ALJAZEERA MUBASHER
-http://62.182.80.94:8080/tdn/tdn/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA ENGLISH" live="1" tvg-logo="http://teledunet.com/logos/jen.webp" group-title="NEWS",ALJAZEERA ENGLISH
-http://62.182.80.94:8080/tdn/tdn/4.m3u8
+https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="NEWS",AL ARABIYA
-http://62.182.80.94:8080/tdn/tdn/54058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HD" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="NEWS",AL ARABIYA HD
-http://62.182.80.94:8080/tdn/tdn/5.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="NEWS",AL ARABIYA HADATH
-http://62.182.80.94:8080/tdn/tdn/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL QAHERA NEWS" live="1" tvg-logo="https://yt3.googleusercontent.com/uOlHS94R7RjdUaDWjXwNplTRItDSBamOfG0gM62jbw912HmaaLjNVrmd6ovo-F4GMYlJum56T5I=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NEWS",AL QAHERA NEWS
-http://62.182.80.94:8080/tdn/tdn/54057.m3u8
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="i24 News" live="1" tvg-logo="" group-title="NEWS",i24 News
-http://62.182.80.94:8080/tdn/tdn/54060.m3u8
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN AMERICA" live="1" tvg-logo="http://teledunet.com/logos/cnn-logo.png" group-title="NEWS",CNN AMERICA
 http://62.182.80.94:8080/tdn/tdn/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="http://teledunet.com/logos/f24.png" group-title="NEWS",FRANCE 24 ARABIC 24
@@ -24,7 +14,7 @@ http://62.182.80.94:8080/tdn/tdn/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="http://teledunet.com/logos/Russia-today-logo.svg.png" group-title="NEWS",RUSSIA TODAY
 http://62.182.80.94:8080/tdn/tdn/8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="NEWS",AL HIWAR NEWS
-http://62.182.80.94:8080/tdn/tdn/9.m3u8
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL MEKAMELEN" live="1" tvg-logo="http://teledunet.com/logos/channels4_profile.jpg" group-title="NEWS",AL MEKAMELEN
 http://62.182.80.94:8080/tdn/tdn/10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" live="1" tvg-logo="http://teledunet.com/logos/dw.jpg" group-title="NEWS",DW ARABIC
@@ -36,11 +26,11 @@ http://62.182.80.94:8080/tdn/tdn/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" live="1" tvg-logo="http://teledunet.com/logos/bbcnews.jpg" group-title="NEWS",BBC NEWS
 http://62.182.80.94:8080/tdn/tdn/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKYxNEWS ARABIC" live="1" tvg-logo="http://teledunet.com/logos/skynews.png" group-title="NEWS",SKYxNEWS ARABIC
-http://62.182.80.94:8080/tdn/tdn/16.m3u8
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT TURKEY ARABIC" live="1" tvg-logo="http://teledunet.com/logos/thumbs_b_c_5313aefb7ce449e63c76ecf1531edc51.jpg" group-title="NEWS",TRT TURKEY ARABIC
-http://62.182.80.94:8080/tdn/tdn/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" live="1" tvg-logo="http://teledunet.com/logos/Fox_News_Channel_logo.svg.png" group-title="NEWS",FOX NEWS
-http://62.182.80.94:8080/tdn/tdn/18.m3u8
+https://tv-trtarabi.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="rtarab NEWS" live="1" tvg-logo="http://teledunet.com/logos/Fox_News_Channel_logo.svg.png" group-title="NEWS",rtarab NEWS
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALGHAD" live="1" tvg-logo="http://teledunet.com/logos/eg-alghad-tv-4385.jpg" group-title="NEWS",ALGHAD
 http://62.182.80.94:8080/tdn/tdn/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC NEWS" live="1" tvg-logo="http://teledunet.com/logos/1200px-CNBC_logo.svg.png" group-title="NEWS",CNBC NEWS
