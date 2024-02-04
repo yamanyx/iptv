@@ -5,8 +5,6 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="NEWS",AL ARABIYA HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="http://teledunet.com/logos/f24.png" group-title="NEWS",FRANCE 24 ARABIC 24
-http://62.182.80.94:8080/tdn/tdn/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="http://teledunet.com/logos/Russia-today-logo.svg.png" group-title="NEWS",RUSSIA TODAY
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="NEWS",AL HIWAR NEWS
@@ -23,15 +21,15 @@ https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvmOVp36ImS8x_C-jvk37gsU/ts
 https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvnxYg4pvZiHV_kI0oOpE0hc/ts
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 4 ARAB
 https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvjBI5xSLiCHj8FDljOvWnIE/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN  1_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 1 ARAB ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="BeIN  1_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 1 _ سيرفر 2
 https://airmaxtv.online/airmaxproTV47/airmaxproVT88/306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 2_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 2 ARAB ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="" group-title="BEIN SPORTS [VIP]",BeIN SPORTS 2 _ سيرفر 2
 https://airmaxtv.online/airmaxproTV47/airmaxproVT88/307.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN  3_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="" group-title="BEIN SPORTS [VIP]",BeIN  3  ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="BeIN  3_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="" group-title="BEIN SPORTS [VIP]",BeIN 3 _ سيرفر 2
 https://airmaxtv.online/airmaxproTV47/airmaxproVT88/308.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN 4_سيرفر2 ᶠᴴᴰ" live="1" tvg-logo="" group-title="BEIN SPORTS [VIP]",BeIN  4 سيرفر 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 4_سيرفر2 ᶠᴴᴰ" live="1" tvg-logo="" group-title="BEIN SPORTS [VIP]",BeIN  4_ سيرفر 2
 https://airmaxtv.online/airmaxproTV47/airmaxproVT88/309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 " live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS [VIP]",SSC SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 " live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS [VIP]",SSC SPORTS 1
 https://airmaxtv.online/airmaxproTV47/airmaxproVT88/318.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 ᴴᴰ" live="1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS [VIP]",SSC SPORTS 2
 https://airmaxtv.online/airmaxproTV47/airmaxproVT88/319.m3u8
