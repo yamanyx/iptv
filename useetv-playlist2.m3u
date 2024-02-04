@@ -77,75 +77,75 @@ https://shls-masr2-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/inde
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_5.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="LANA TV" tvg-logo="" group-title="i|قنوات العربية",LANA TV
+#EXTINF:-1 tvg-id="" tvg-name="LANA TV" tvg-logo="" group-title="MBC Group",LANA TV
 https://eitc3.secure2.footprint.net/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sma tv" tvg-logo="" group-title="i|قنوات العربية", sma tv
+#EXTINF:-1 tvg-id="" tvg-name="sma tv" tvg-logo="" group-title="MBC Group", sma tv
 https://stream.sama-tv.net/hls/samatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYRIA DRAMA" tvg-logo="" group-title="i|قنوات العربية",SYRIA DRAM
+#EXTINF:-1 tvg-id="" tvg-name="SYRIA DRAMA" tvg-logo="" group-title="MBC Group",SYRIA DRAM
 http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYRIA" tvg-logo="" group-title="i|قنوات العربية",SYRIA 
+#EXTINF:-1 tvg-id="" tvg-name="SYRIA" tvg-logo="" group-title="MBC Group",SYRIA 
 http://82.137.248.16:1935/oLive/sat05042022/chunklist_w264673288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYRIA 1" tvg-logo="" group-title="i|قنوات العربية",SYRIA 1
+#EXTINF:-1 tvg-id="" tvg-name="SYRIA 1" tvg-logo="" group-title="MBC Group",SYRIA 1
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="المملكة" tvg-logo="" group-title="i|قنوات العربية", Aالمملكة   
+#EXTINF:-1 tvg-id="" tvg-name="المملكة" tvg-logo="" group-title="MBC Group", Aالمملكة   
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="عمان" tvg-logo="" group-title="i|قنوات العربية",A عمان
+#EXTINF:-1 tvg-id="" tvg-name="عمان" tvg-logo="" group-title="MBC Group",A عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الاردن" tvg-logo="" group-title="i|قنوات العربية",Aالاردن
+#EXTINF:-1 tvg-id="" tvg-name="الاردن" tvg-logo="" group-title="MBC Group",Aالاردن
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="رؤيا" tvg-logo="" group-title="i|قنوات العربية",Aرؤيا
+#EXTINF:-1 tvg-id="" tvg-name="رؤيا" tvg-logo="" group-title="MBC Group",Aرؤيا
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الاقصى" tvg-logo="" group-title="i|قنوات العربية",Aالاقصى
+#EXTINF:-1 tvg-id="" tvg-name="الاقصى" tvg-logo="" group-title="MBC Group",Aالاقصى
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="النجاح" tvg-logo="" group-title="i|قنوات العربية",Aالنجاح
+#EXTINF:-1 tvg-id="" tvg-name="النجاح" tvg-logo="" group-title="MBC Group",Aالنجاح
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="فلسطين مباشر" tvg-logo="" group-title="i|قنوات العربية",Aفلسطين مباشر
+#EXTINF:-1 tvg-id="" tvg-name="فلسطين مباشر" tvg-logo="" group-title="MBC Group",Aفلسطين مباشر
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="" group-title="i|قنوات العربية",Aفلسطين
+#EXTINF:-1 tvg-id="" tvg-name="فلسطين" tvg-logo="" group-title="MBC Group",Aفلسطين
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="المنار" tvg-logo="" group-title="i|قنوات العربية",Aالمنار
+#EXTINF:-1 tvg-id="" tvg-name="المنار" tvg-logo="" group-title="MBC Group",Aالمنار
 https://manar.live/iptv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الميادين" tvg-logo="" group-title="i|قنوات العربية",Aالميادين
+#EXTINF:-1 tvg-id="" tvg-name="الميادين" tvg-logo="" group-title="MBC Group",Aالميادين
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE TV" tvg-logo="" group-title="i|قنوات العربية",TELE TV
+#EXTINF:-1 tvg-id="" tvg-name="TELE TV" tvg-logo="" group-title="MBC Group",TELE TV
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الشارقة" tvg-logo="" group-title="i|قنوات العربية",Aالشارقة
+#EXTINF:-1 tvg-id="" tvg-name="الشارقة" tvg-logo="" group-title="MBC Group",Aالشارقة
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ابو ظبي" tvg-logo="" group-title="i|قنوات العربية",Aابوظبي
+#EXTINF:-1 tvg-id="" tvg-name="ابو ظبي" tvg-logo="" group-title="MBC Group",Aابوظبي
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="دبي" tvg-logo="" group-title="i|قنوات العربية",Aدبي
+#EXTINF:-1 tvg-id="" tvg-name="دبي" tvg-logo="" group-title="MBC Group",Aدبي
 https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="دبي زمان" tvg-logo="" group-title="i|قنوات العربية",Aدبي زمان
+#EXTINF:-1 tvg-id="" tvg-name="دبي زمان" tvg-logo="" group-title="MBC Group",Aدبي زمان
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="سما دبي" tvg-logo="" group-title="i|قنوات العربية",Aدبي سما
+#EXTINF:-1 tvg-id="" tvg-name="سما دبي" tvg-logo="" group-title="MBC Group",Aدبي سما
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الامارات" tvg-logo="" group-title="i|قنوات العربية",Aالامارات
+#EXTINF:-1 tvg-id="" tvg-name="الامارات" tvg-logo="" group-title="MBC Group",Aالامارات
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="i|قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="قنوات العربية",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MBC Group",
 
