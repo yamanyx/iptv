@@ -1,7 +1,85 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
+https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="NEWS",AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="NEWS",AL ARABIYA HADATH
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="http://teledunet.com/logos/f24.png" group-title="NEWS",FRANCE 24 ARABIC 24
+http://62.182.80.94:8080/tdn/tdn/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="http://teledunet.com/logos/Russia-today-logo.svg.png" group-title="NEWS",RUSSIA TODAY
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="NEWS",AL HIWAR NEWS
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" live="1" tvg-logo="http://teledunet.com/logos/dw.jpg" group-title="NEWS",DW ARABIC
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALSHARQ NEWS" live="1" tvg-logo="http://teledunet.com/logos/sharqnewes.jpg" group-title="NEWS",ALSHARQ NEWS
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvuSpBMqq_A9vIr4bSiDA8AE/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvmOVp36ImS8x_C-jvk37gsU/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvnxYg4pvZiHV_kI0oOpE0hc/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvjBI5xSLiCHj8FDljOvWnIE/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN  1_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS| سيرفر 2",BeIN  SPORTS 1 
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 2_ سيرفر 2 ᶠᴴᴰ" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS| سيرفر 2",BeIN SPORTS 2 
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN  3_  2 ᶠᴴᴰ" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS| سيرفر 2",BeIN SPORTS 3 
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN 4_سيرفر2 ᶠᴴᴰ" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS| سيرفر 2",BeIN SPORTS 4
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 ᴴᴰ" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="SSC SPORTS",SSC SPORTS 1
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 2 ᴴᴰ" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc2.jpg" group-title="SSC SPORTS",SSC SPORTS 2
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 3 ᴴᴰ" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc3.jpg" group-title="SSC SPORTS",SSC SPORTS 3
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports Extra 1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS",SSC Sports Extra 1
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports Extra 2" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS",SSC Sports Extra 2
+https://airmaxtv.online/airmaxproTV47/airmaxproVT88/324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ssc 1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="SSC SPORTS",ssc 1
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvgfkI4w1-HLZCwoTakalO-0/ts
+#EXTINF:-1 tvg-id="" tvg-name="ssc 2" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc2.jpg" group-title="SSC SPORTS",ssc 2
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvhQ1z0Xxc_pvNs0EmWUtFWk/ts
+#EXTINF:-1 tvg-id="" tvg-name="ssc 3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc3.jpg" group-title="SSC SPORTS",ssc 3
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvjAcmLnzin14SX6ifQz7dm8/ts
+#EXTINF:-1 tvg-id="" tvg-name="ssc  extra 1" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS",ssc extra  1
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvrpULbi07A0mc4QHS-IGuyQ/ts
+#EXTINF:-1 tvg-id="" tvg-name="ssc extra 2" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png" group-title="SSC SPORTS",ssc extra 2
+https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvt0KRJJHp8PelPkJi9g5OHk/ts
+
+
+#EXTINF:-1 tvg-id="MBC.ae" tvg-name="MBC 1" tvg-logo="http://free.one24tv.com:80/images/jM9HVxPh83F5uqWDRPSn1qfeVN3FIv7EYbvGJCLEaBaplHx2WtM0JjwGKAtEeFiX.png" group-title="MBC Group",MBC 1
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://besttvps.com/app/panel-logos/mbc-2.png" group-title="MBC Group",MBC 2
+http://free.one24tv.com:80/50071701378751/50071701378751/95
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="MBC Group",MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="MBC Group",MBC 5
+https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://besttvps.com/app/panel-logos/mbc-action.png" group-title="MBC Group",MBC ACTION
+http://free.one24tv.com:80/50071701378751/50071701378751/9606
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://besttvps.com/app/panel-logos/mbc-max.png" group-title="MBC Group",MBC Max
+http://free.one24tv.com:80/50071701378751/50071701378751/100
+#EXTINF:-1 tvg-id="MBCM" tvg-name="MBC Masr 1" tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr1.png" group-title="MBC Group",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBCM" tvg-name="MBC Masr 2" tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="MBC Group",MBC Masr 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama" tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="MBC Group",MBC Drama
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ Plus" tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="MBC Group",MBC Drama+ Plus
+https://shls-masr2-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="MBC Group",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_5.m3u8
+
+479f-85b3-f7932b9966d5.png" group-title="NEWS",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="NEWS",AL ARABIYA HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
