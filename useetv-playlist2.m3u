@@ -82,9 +82,9 @@ https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV", sma tv
 https://stream.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV",SYRIA DRAM
-http://82.137.248.16:1935/oLive/drama05042022/chunklist.m3u8
+http://149.18.45.21:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV",SYRIA 
-http://82.137.248.16:1935/oLive/sat05042022/chunklist_w264673288.m3u8
+http://95.216.180.111:1935/live/114/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV",SYRIA 1
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV", المملكة    
