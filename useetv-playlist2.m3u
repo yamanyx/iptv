@@ -153,23 +153,23 @@ https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="زي افلام" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="زي افلام" tvg-logo="" group-title="*|افلام  ",
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="روتانا افلام" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="روتانا افلام" tvg-logo="" group-title="*|افلام  ",
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_4.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="روتانا سينما" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="روتانا سينما" tvg-logo="" group-title="*|افلام  ",
 https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/3594e39a8f6a2c156e9a6c972692bcf9.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="دبي افلام" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="دبي افلام" tvg-logo="" group-title="*|افلام  ",
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="اجيال" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="اجيال" tvg-logo="" group-title="*|افلام  ",
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
 
 
@@ -177,7 +177,7 @@ http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام اكشن" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="افلام اكشن" tvg-logo="" group-title="*|افلام  ",
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 
@@ -185,15 +185,15 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام تركية" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="افلام تركية" tvg-logo="" group-title="*|افلام  ",
 https://ythlsgo.onrender.com/channel/UCGjgAGxGWZXWLTHTlTVZXaw.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام مصرية" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="افلام مصرية" tvg-logo="" group-title="*|افلام  ",
 https://ythlsgo.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="" group-title="|افلام  ",
+#EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="" group-title="*|افلام  ",
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 
