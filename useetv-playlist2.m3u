@@ -196,7 +196,8 @@ https://ythlsgo.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="" group-title="*|افلام  ",
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="http://free.one24tv.com:80/images/jM9HVxPh83F5uqWDRPSn1qqRFQ0US2GcAIQ18vxzHwElbRiE2OkbWMyTzKPgJO3-0bYfPR8ANap6fixs60IOow.png" group-title=" |  افلام",
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="http://free.one24tv.com:80/images/jM9HVxPh83F5uqWDRPSn1qqRFQ0US2GcAIQ18vxzHwElbRiE2OkbWMyTzKPgJO3-0bYfPR8ANap6fixs60IOow.png" group-title="News |  افلام",نجوم هوليود
+#EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="http://free.one24tv.com:80/images/jM9HVxPh83F5uqWDRPSn1qqRFQ0US2GcAIQ18vxzHwElbRiE2OkbWMyTzKPgJO3-0bYfPR8ANap6fixs60IOow.png" group-title=" |  افلام",
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
