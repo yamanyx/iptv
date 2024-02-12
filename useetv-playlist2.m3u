@@ -91,7 +91,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV", عمان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الاردن" tvg-logo="" group-title="arabic TV",الاردن
+#EXTINF:-1 tvg-id="" tvg-name="الاردن" tvg-logo="" group-title="arabic TV",Aالاردن
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="arabic TV",, رؤيا
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
@@ -137,12 +137,63 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/727.m3u8
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="وطن ع وتر" tvg-logo="https://media0033.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="24 |  مسلسلات",وطن ع وتر
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ارطغل" tvg-logo="https://i1.sndcdn.com/artworks-000262773194-xvi4ic-t240x240.jpg" group-title="24 |  مسلسلات",ارطغل
-
+#EXTINF:-1 tvg-id="" tvg-name="مسلسلات لايف" tvg-logo="https://i1.sndcdn.com/artworks-000262773194-xvi4ic-t240x240.jpg" group-title="24 |  مسلسلات",ارطغل
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مسلسلات كوميديا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q40R169/images/articles/eXLsRVBvN3vuAoOUQnODVHYQa4g15u3AuK0Fw5eK.jpeg" group-title="24 |  مسلسلات",مسلسلات كوميدية
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8?st=W4EGz1fS3n0bYrdymrvADQ&e=1702878683
 #EXTINF:-1 tvg-id="" tvg-name="واي في" tvg-logo="https://cdn.elwatannews.com/watan/840x473/19327654021582632735.jpg" group-title="24 |  مسلسلات",واي في
 https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://i.ytimg.com/vi/6Ecz53eDUX4/mqdefault.jpg" group-title="24 |  مسلسلات",مرايا
 https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_3.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="زي افلام" tvg-logo="" group-title="|افلام  ",
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="روتانا افلام" tvg-logo="" group-title="|افلام  ",
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="روتانا سينما" tvg-logo="" group-title="|افلام  ",
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/3594e39a8f6a2c156e9a6c972692bcf9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="دبي افلام" tvg-logo="" group-title="|افلام  ",
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="اجيال" tvg-logo="" group-title="|افلام  ",
+http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام لايف" tvg-logo="" group-title="|افلام  ",
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام اكشن" tvg-logo="" group-title="|افلام  ",
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام بلس" tvg-logo="" group-title="|افلام  ",
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام تركية" tvg-logo="" group-title="|افلام  ",
+https://ythlsgo.onrender.com/channel/UCGjgAGxGWZXWLTHTlTVZXaw.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام مصرية" tvg-logo="" group-title="|افلام  ",
+https://ythlsgo.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="نجوم هوليود" tvg-logo="" group-title="|افلام  ",
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
 
