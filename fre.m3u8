@@ -1,12 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=9382&extension=m3u8
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508159&extension=m3u8
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174555&extension=m3u8&play_token=646976
-###http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=14414&extension=m3u8&play_token=141856
-##http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594508
-##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=672398&extension=m3u8&play_token=xdbt7BgLik1348102
-##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=141856&extension=m3u8&play_token
-##115809  646976
-##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=94482&extension=m3u8&play_token=msUKooUfNl
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1708280075/ei/q_TRZbT4C6jbsfIPv82bmA8/ip/13.83.13.224/id/bNyUyrR0PHo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-o097znze.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyo7P5wfu3rjRU-koZiSjdWmBZqzkNq9Uo7ZVfgFDUA/vprv/1/playlist_type/DVR/mh/dN/mm/44/mn/sn-o097znze/ms/lva/mv/u/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1708255799/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOAnlQNJC1DZBCLh_TKFCCs8MwaEHz-ZpfgehOZwLivWAiB2ZqUjkC_gPI-eIoat07AnaaXJ_a7Q4rTyryk3qgw3vg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhALxf7niC1GfVCan2CFtCbryox-y1sSQnBZrxIrYx15iKAiBTLan8-7JnHl6P54aGpbT-pZ0rylrnOWaiIHi7VCmGXg%3D%3D/playlist/index.m3u8
