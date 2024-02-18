@@ -6,7 +6,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="NEWS",AL ARABIYA HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="http://teledunet.com/logos/f24.png" group-title="NEWS",FRANCE 24 ARABIC 24
-http://62.182.80.94:8080/tdn/tdn/7.m3u8
+https://raw.githubusercontent.com/yamanyx/iptv/main/bab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="http://teledunet.com/logos/Russia-today-logo.svg.png" group-title="NEWS",RUSSIA TODAY
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="NEWS",AL HIWAR NEWS
