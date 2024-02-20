@@ -1,4 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
-https://hegazyiptv5.com/play/Q_cYWVOXddlvouOpFBClvuSpBMqq_A9vIr4bSiDA8AE/ts
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
+#EXTVLCOPT:http-player-type=webplayer
+http://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv
