@@ -22,7 +22,7 @@ http://yamantv2024.blogspot.com/2024/03/live.html
 
 #EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
 #EXTVLCOPT:http-player-type=webplayer
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=http://www.elahmad.com
 http://www.elahmad.com/tv/teledunet.php?id=65357
 #EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
 #EXTVLCOPT:http-player-type=webplayer
