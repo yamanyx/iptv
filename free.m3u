@@ -38,3 +38,10 @@ http://www.elahmad.com/tv/teledunet.php?id=65
 #EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
 #EXTVLCOPT:http-player-type=webplayer
 https://ok.ru/videoembed/6675590618847
+
+
+
+
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
+#EXTVLCOPT:http-player-type=external
+http://www.elahmad.com/tv/teledunet.php?id=65
