@@ -46,3 +46,12 @@ https://ok.ru/videoembed/6675590618847
 #EXTVLCOPT:http-player-type=external
 #EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/teledunet.php
 http://www.elahmad.com/tv/teledunet.php?id=65
+
+
+
+
+
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
+#EXTVLCOPT:http-player-type=external
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/teledunet.php
+http://www.elahmad.com/tv/teledunet.php?id=64
