@@ -1,21 +1,65 @@
-#EXT-X-VERSION:3
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg"" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/02.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/03.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/04.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/05.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/06.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/07.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/08.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/09.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/10.mp4
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo=https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg"" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/12.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/14.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/16.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/17.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/18.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/19.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/20.mp4
 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=9382&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg"" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/23.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/24.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/25.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/26.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/27.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/28.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://i.ytimg.com/vi/35so9xBcNFk/maxresdefault.jpg" group-title="صديقات القطط
+https://vid5.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/30.mp4
 
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508159&extension=m3u8
-
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174555&extension=m3u8&play_token=646976
-
-###http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=14414&extension=m3u8&play_token=141856
-
-##http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594508
-
-##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=672398&extension=m3u8&play_token=xdbt7BgLik1348102
-
-##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=141856&extension=m3u8&play_token
-
-##115809  646976
-
-##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=94482&extension=m3u8&play_token=msUKooUfNl
+https://vid3.fb2024.online/file/atv-serv1/ramadan2024/arabi/Al-Sadeeqat/24.mp4
