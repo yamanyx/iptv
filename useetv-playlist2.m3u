@@ -1,6 +1,4 @@
-#EXTINF:-1 group-title="No" tvg-logo="https://flax-media.com/player/?id=aHR0cDovL3UxNjAyMDQyNC5iZXJuYWRldHRlLW1hdHRoZXdzLnNob3AveDEvdmlld18yMS5tM3U4", abdalkader
-#EXTVLCOPT:http-player-type=webplayer
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/414.ts
+
 #EXTINF:-1 group-title="حلب" tvg-logo="https://flax-media.com/player/?id=aHR0cDovL3UxNjAyMDQyNC5iZXJuYWRldHRlLW1hdHRoZXdzLnNob3AveDEvdmlld18yMS5tM3U4", abdalkader
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/useetv-playlist2.m3u
