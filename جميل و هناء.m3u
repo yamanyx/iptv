@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="الحلقة 1" live="1" tvg-logo=https://shoofmax-static.b-cdn.net/v2/img/program/main/yawmiyyat-jamil-w-hanaa-1.jpg"" group-title="جميل و هناء
+#EXTINF:-1 tvg-id="1" tvg-name="الحلقة 1" live="1" tvg-logo=https://shoofmax-static.b-cdn.net/v2/img/program/main/yawmiyyat-jamil-w-hanaa-1.jpg"" group-title="ج جميل و هن
 http://shoofmax.b-cdn.net/yawmiyyat-jamil-w-hanaa/ep1/variant.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="الحلقة 2" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/yawmiyyat-jamil-w-hanaa-1.jpg" group-title="جميل و هناء
+#EXTINF:-1 tvg-id="2" tvg-name="الحلقة 2" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/yawmiyyat-jamil-w-hanaa-1.jpg" group-title="جميل و هناء, جميل و هناء
 http://shoofmax.b-cdn.net/yawmiyyat-jamil-w-hanaa/ep2/variant.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="الحلقة  3" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/yawmiyyat-jamil-w-hanaa-1.jpg" group-title="جميل و هناء
 http://shoofmax.b-cdn.net/yawmiyyat-jamil-w-hanaa/ep3/variant.m3u8
