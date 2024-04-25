@@ -1,7 +1,7 @@
 
 #EXTINF:-1 group-title="حلب" tvg-logo="https://flax-media.com/player/?id=aHR0cDovL3UxNjAyMDQyNC5iZXJuYWRldHRlLW1hdHRoZXdzLnNob3AveDEvdmlld18yMS5tM3U4", abdalkader
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/yamanyx/iptv/main/useetv-playlist2.m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AC%D9%85%D9%8A%D9%84%20%D9%88%20%D9%87%D9%86%D8%A7%D8%A1.m3u
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
