@@ -1,3 +1,10 @@
+#EXTINF:-1 group-title="No" tvg-logo="https://flax-media.com/player/?id=aHR0cDovL3UxNjAyMDQyNC5iZXJuYWRldHRlLW1hdHRoZXdzLnNob3AveDEvdmlld18yMS5tM3U4", abdalkader
+#EXTVLCOPT:http-player-type=webplayer
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/414.ts
+#EXTINF:-1 group-title="حلب" tvg-logo="https://flax-media.com/player/?id=aHR0cDovL3UxNjAyMDQyNC5iZXJuYWRldHRlLW1hdHRoZXdzLnNob3AveDEvdmlld18yMS5tM3U4", abdalkader
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/useetv-playlist2.m3u
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="NEWS",ALJAZEERA NEWS
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
