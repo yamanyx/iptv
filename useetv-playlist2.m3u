@@ -204,7 +204,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام لايف" tvg-logo="https://trend.nl7za.com/wp-content/uploads/2023/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D8%A7%D9%8A%D9%84-%D9%84%D8%A7%D9%8A%D9%81-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-%D9%88%D8%B9%D8%B1%D8%A8%D8%B3%D8%A7%D8%AA-Nile-Life.jpg" group-title="|افلام  ",افلام لايف
+#EXTINF:-1 tvg-id="" tvg-name="افلام لايف" tvg-logo="https://trend.nl7za.com/wp-content/uploads/2023/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D8%A7%D9%8A%D9%84-%D9%84%D8%A7%D9%8A%D9%81-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-%D9%88%D8%B9%D8%B1%D8%A8%D8%B3%D8%A7%D8%AA-Nile-Life.jpg" group-title="*|افلام  ",افلام لايف
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
 
 
@@ -212,16 +212,16 @@ https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام بلس" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeOdc_cwGC4mrAL6FToU3dijYle7Ok4tW7tCYwJF6IA&s" group-title="|افلام  ",افلام بلس
+#EXTINF:-1 tvg-id="" tvg-name="افلام بلس" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeOdc_cwGC4mrAL6FToU3dijYle7Ok4tW7tCYwJF6IA&s" group-title="*|افلام  ",افلام بلس
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام تركية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/280px-Kanal_7_2002-%3F_logosu.webp.png" group-title="*|افلام  ",افلام تركية
-https://ythlsgo.onrender.com/channel/UCGjgAGxGWZXWLTHTlTVZXaw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="افلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/280px-Kanal_7_2002-%3F_logosu.webp.png" group-title="*|افلام  ",افلام 
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="افلام مصرية" tvg-logo="https://ar.ra2ya.com/wp-content/uploads/2021/01/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82.jpg" group-title="*|افلام  ",افلام مصرية
-https://ythlsgo.onrender.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="زي الوان" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-t-hnDCZ_RS38hwZjnTb1-PlDeM5i3LxyoysVzZxa02c=s900-c-k-c0x00ffffff-no-rj" group-title="*|افلام  ",زي الوان
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
 
 
@@ -476,7 +476,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://raw.githubusercontent.com/yamanyx/iptv/main/bab.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="http://teledunet.com/logos/Russia-today-logo.svg.png" group-title="اخبار",RUSSIA TODAY
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="NEWS",AL HIWAR NEWS
+#EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="اخبار",AL HIWAR NEWS
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" live="1" tvg-logo="http://teledunet.com/logos/dw.jpg" group-title="اخبار",DW ARABIC
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
