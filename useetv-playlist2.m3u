@@ -168,7 +168,7 @@ http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/727.m3u8
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="وطن ع وتر" tvg-logo="https://media0043.elcinema.com/uploads/_315x420_3ad8888181d91888023d38b9e282e39c2fe3e503d9db76b381ee61ca67b71587.jpg" group-title="24 |  مسلسلات",وطن ع وتر
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="مسلسلات لايف" tvg-logo="https://i1.sndcdn.com/artworks-000262773194-xvi4ic-t240x240.jpg" group-title="24 |  مسلسلات",ارطغل
+#EXTINF:-1 tvg-id="" tvg-name="مسلسلات لايف" tvg-logo="https://c.files.bbci.co.uk/5857/production/_111951622_tg.jpg" group-title="24 |  مسلسلات",رامز جلال
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مسلسلات كوميديا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q40R169/images/articles/eXLsRVBvN3vuAoOUQnODVHYQa4g15u3AuK0Fw5eK.jpeg" group-title="24 |  مسلسلات",مسلسلات كوميدية
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8?st=W4EGz1fS3n0bYrdymrvADQ&e=1702878683
@@ -200,6 +200,64 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/hg9JPjAy81drsHR.png" group-title="24 |  مسلسلات",رمضان 2024
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ALG2" tvg-logo="" group-title="الجزائر",ALG2
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG3" tvg-logo="" group-title="الجزائر",ALG3
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV4" tvg-logo="" group-title="الجزائر",TV4
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG5" tvg-logo="" group-title="الجزائر",ALG5
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG6" tvg-logo="" group-title="الجزائر",ALG6
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG7" tvg-logo="" group-title="الجزائر",ALG7
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG8" tvg-logo="" group-title="الجزائر",ALG8
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BILAD" tvg-logo="" group-title="الجزائر",BILAD
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berbere" tvg-logo="" group-title="الجزائر",Berbere
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HADDAF" tvg-logo="" group-title="الجزائر",HADDAF
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Samira" tvg-logo="" group-title="الجزائر",Samira
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTV" tvg-logo="" group-title="الجزائر",ENTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ChoroukeTV" tvg-logo="" group-title="الجزائر",ChoroukeTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NaharTV" tvg-logo="" group-title="الجزائر",NaharTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Echorouk News" tvg-logo="" group-title="الجزائر",Echorouk News
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bahia TV" tvg-logo="" group-title="الجزائر",BahiaTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL HAYAT TV" tvg-logo="" group-title="الجزائر",ELHAYAT TV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="" group-title="الجزائر",Fdjre
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/11.m3u8
 
 
 
