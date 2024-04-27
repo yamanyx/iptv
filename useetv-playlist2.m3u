@@ -161,12 +161,12 @@ https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index
 
 
 #EXTINF:-1 tvg-id="" tvg-name="الهيبة" tvg-logo="https://www.lbcgroup.tv/newsimages/News-P-357576-636518676866903611.jpg" group-title="24 |  مسلسلات",الهيبة
-https://shls-live-ak.akamaized.net/out/v1/0ef83323c0374a1187c182645db2a45f/index_4.m3u8
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="الخربة" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/517/3ZFod064OkM0GfO.jpg" group-title="24 |  مسلسلات",الخربة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/727.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ضيعة ضايعة" tvg-logo="https://i.ytimg.com/vi/1tvGQRZf2Go/maxresdefault.jpg" group-title="24 |  مسلسلات",ضيعة ضايعة
 http://multies.xyz/live/87076BB68235FC3242A4CB05234563EB/728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="وطن ع وتر" tvg-logo="https://media0033.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="24 |  مسلسلات",وطن ع وتر
+#EXTINF:-1 tvg-id="" tvg-name="وطن ع وتر" tvg-logo="https://media0043.elcinema.com/uploads/_315x420_3ad8888181d91888023d38b9e282e39c2fe3e503d9db76b381ee61ca67b71587.jpg" group-title="24 |  مسلسلات",وطن ع وتر
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مسلسلات لايف" tvg-logo="https://i1.sndcdn.com/artworks-000262773194-xvi4ic-t240x240.jpg" group-title="24 |  مسلسلات",ارطغل
 https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_3.m3u8
@@ -177,8 +177,29 @@ https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index
 #EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://i.ytimg.com/vi/6Ecz53eDUX4/mqdefault.jpg" group-title="24 |  مسلسلات",مرايا
 https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://i.ytimg.com/vi/6Ecz53eDUX4/mqdefault.jpg" group-title="24 |  مسلسلات",مرايا
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://www.aljazeera.net/wp-content/uploads/2019/04/7a989d77-18bd-457b-b59d-7508e951b1bc.jpeg?resize=770%2C513&quality=80" group-title="24 |  مسلسلات",جلطة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/8jZkN8VHXz25RWR.png" group-title="24 |  مسلسلات",مسلسلات شامية
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/xR9mC6kVUCcumTK.png" group-title="24 |  مسلسلات",حارة القبة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/TNuo6lE3T7cAZxq.png" group-title="24 |  مسلسلات",ايمن زيدان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/lpyjjNklPb8dhun.png" group-title="24 |  مسلسلات",الزعيم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/tLCS5pA4B8QgF5u.png" group-title="24 |  مسلسلات",دراما
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-production/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/hg9JPjAy81drsHR.png" group-title="24 |  مسلسلات",رمضان 2024
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ramadan-2024/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/TtFuZdW2broxc2b.png" group-title="24 |  مسلسلات",دراماا
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/hg9JPjAy81drsHR.png" group-title="24 |  مسلسلات",رمضان 2024
+https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/hg9JPjAy81drsHR.png" group-title="24 |  مسلسلات",رمضان 2024
+https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
 
 
 
