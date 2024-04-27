@@ -255,9 +255,9 @@ https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EL HAYAT TV" tvg-logo="" group-title="الجزائر",ELHAYAT TV
 #EXTVLCOPT:http-user-agent=DZAgexpl213
 https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="" group-title="الجزائر",Fdjre
+#EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="" group-title="الجزائر",الفجر
 #EXTVLCOPT:http-user-agent=DZAgexpl213
-https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/11.m3u8
+https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
 
 
 
