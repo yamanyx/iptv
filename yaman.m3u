@@ -77,10 +77,22 @@ https://www.aflam4you.net/playeraf.php?vid=167
 #EXTVLCOPT:http-player-type=external
 https://rotana.net/en/channels#/live/rotana-cinemamasr
 
-
-
-
-
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://imgsrv.rotana.net/channels/1688402472.webp?w=65&h=65&fit=max"روتانا سينما, باقة روتانا
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_khlijia.jpg?v=6"روتانا خليجية, باقة روتانا
+https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1714378457~h=47903404d40040cc1a4a95a990afaacb/playlist.m3u8#url
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام, باقة روتانا
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام 2, باقة روتانا
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=467193&token=demo
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_classic.jpg?v=6"روتانا كلاسيك, باقة روتانا
+https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1714378281~h=2f12c4183ce348adb18eea6ecc48aa1f/playlist.m3u8#url
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_drama.jpg?v=6"روتانا دراما, باقة روتانا
+https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1714378360~h=f0abe4d71b1c250767e92e155e249cd5/playlist.m3u8#url
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_comedy.jpg?v=6"روتانا كوميدي, باقة روتانا
+https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1714378799~h=03c7180fc2bf9001fbf0b0162538c987/playlist.m3u8#url
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg?v=6"روتانا  اطفال, باقة روتانا
+https://rotananet.hibridcdn.net/rotana/kids_abr/token=p=48~e=1714378134~h=b8a52cb8dacb10b6fb1b86460d309809/playlist.m3u8#url
 
 
 
