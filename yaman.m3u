@@ -655,6 +655,41 @@ https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd1
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/palestine_alyawm.jpg?v=6" group-title="فلسطين",فلسطين اليوم
+https://live.paltodaytv.com/paltv/live/chunklist.m3u8?v=629304983
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aqsa_tv.jpg?v=6" group-title="فلسطين",الاقصى
+https://s1.ettehadlive.com/live/68/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aca23.png" group-title="فلسطين",قدسنا
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/palestine_mobasher.jpg?v=6" group-title="فلسطين",فلسطين مباشر
+https://pbc.furrera.ps/palestinelivehd/index.m3u8?v=629304983
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/najah.jpg?v=6" group-title="فلسطين",النجاح
+https://streaming.najah.edu:8443/hls/AlNajah_mid/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alqudstoday.jpg?v=6" group-title="فلسطين",القدس اليوم
+https://s1.ettehadlive.com/live/11/playlist.m3u8?v=629304983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/hekayahtv.jpg" group-title="فلسطين",حكاية
+http://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/almadinatv_palestine.jpg" group-title="فلسطين",المدينة
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ajyal-tv-palestine.jpg" group-title="فلسطين",اجيال
+http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/nabluslive3.jpg" group-title="فلسطين",نابلس مباشر
+http://streaming.zaytonatube.com:8080/NablusMix3/NablusMix3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/posttv.jpg" group-title="فلسطين",POST TV 
+https://tv.qmedia.ps/hls/post_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/shababfm.jpg" group-title="فلسطين",شباب
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/watar.jpg" group-title="فلسطين",وتر
+http://htvint.mada.ps:8889/orient/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 
 
