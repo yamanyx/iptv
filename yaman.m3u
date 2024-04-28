@@ -588,6 +588,31 @@ https://ghaasiflu.online/alhqeqa/index.m3u8
 http://82.212.74.2:8000/live/hls/7311.m3u8?v=629304983&tokenekot=tkb0r4dsr1KXp1tBh4Fe
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Kuwait1.jpg?v=3" group-title="الكويت",الكويت 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Kuwait2.jpg?v=3" group-title="الكويت",الكويت 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/KuwaitS.jpg?v=3" group-title="الكويت",الكويت الرياضية 1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/KuwaitPlus.jpg?v=3" group-title="الكويت",الكويت الرياضية 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Kuwaitithraa.jpg?v=3" group-title="الكويت",اثراء
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/KuwaitAlarabi.jpg?v=3" group-title="الكويت",العربي
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kuwaitdrama.jpg?v=3" group-title="الكويت",الكويت دراما
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kuwaitkids.jpg?v=3" group-title="الكويت",تلفزيون الكويت
+https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Al-Qurain.jpg?v=3" group-title="الكويت",القرين
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
 
 
 
