@@ -606,15 +606,35 @@ https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b350000_t64Mj
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Al-Qurain.jpg?v=3" group-title="الكويت",القرين
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="الكويت",
 
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="االعراق",mbc IRAQ
+https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alfallujah_tv.jpg?v=6" group-title="االعراق",الفلوجة
+https://skyfire.vimeocdn.com/1714503681-0x2777cdf022990cfc91a0e7bd55e1a7c24bc424da/82c0ca68-eef8-4f56-a121-c1d54470cd40/sep/video/d9469b3a/playlist.m3u8?query_string_ranges=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alrafidain.jpg?v=6" group-title="االعراق",الرافدين
+https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alrabiaa_one.jpg?v=6" group-title="االعراق",الرابعة
+https://206222.global.ssl.fastly.net/65045e4aba85cfe0025e4a60/live_c6c4040053cd11ee95b47153d2861736/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alsumaria.jpg?v=6" group-title="االعراق",السومرية
+https://live.kwikmotion.com/alsumariatvlive/sumariamob.smil/playlist.m3u8?hdnts=exp=1714331694~acl=/alsumariatvlive/sumariamob.smil/*~hmac=b5320dc9b85b96926acdfe182156c786e8a455620e8039113c8aaed079829ecf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alsharqiya.jpg?v=6" group-title="االعراق",الشرقية
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/charkiyanews.jpg?v=6" group-title="االعراق",الشرقية اخبار
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8?v=629304983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aletejahtv.jpg?v=6" group-title="االعراق",الاتجاه
+https://s1.ettehadlive.com/live/33/playlist.m3u8?v=629304983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/al_hurra_iraq.jpg?v=6" group-title="االعراق",الحرة
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/merge.m3u8?v=629304983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/beladitv.jpg?v=6" group-title="االعراق",بلادي
+https://s1.ettehadlive.com/live/68/playlist.m3u8?v=629304983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/utv_iraq.jpg?v=6" group-title="االعراق",utv
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 
 
 
