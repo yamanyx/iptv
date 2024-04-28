@@ -138,32 +138,32 @@ http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="mbc 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="A|  mbc",mbc 1
+#EXTINF:-1 tvg-id="" tvg-name="mbc 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="c|  mbc",mbc 1
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="A|  mbc",mbc 2
+#EXTINF:-1 tvg-id="" tvg-name="mbc 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="c|  mbc",mbc 2
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc 3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="A|  mbc",mbc 3
+#EXTINF:-1 tvg-id="" tvg-name="mbc 3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title=,mbc 3
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc 4" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="A|  mbc",mbc 4
+#EXTINF:-1 tvg-id="" tvg-name="mbc 4" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="c|  mbc",mbc 4
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc 4" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="A|  mbc",mbc 5
+#EXTINF:-1 tvg-id="" tvg-name="mbc 4" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="c|  mbc",mbc 5
 https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc 5" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="A|  mbc",mbc MAX
+#EXTINF:-1 tvg-id="" tvg-name="mbc 5" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="c|  mbc",mbc MAX
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc action" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="A|  mbc",mbc action
+#EXTINF:-1 tvg-id="" tvg-name="mbc action" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="c|  mbc",mbc action
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc DRAMA" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="A|  mbc",mbc DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="mbc DRAMA" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="c|  mbc",mbc DRAMA
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc DRAMA+" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="A|  mbc",mbc DRAMA+
+#EXTINF:-1 tvg-id="" tvg-name="mbc DRAMA+" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="c|  mbc",mbc DRAMA+
 https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="A|  mbc",mbc MSR 1
+#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="c|  mbc",mbc MSR 1
 https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="A|  mbc",mbc MSR 2
+#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="c|  mbc",mbc MSR 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="mbc IRAQ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="A|  mbc",mbc IRAQ
+#EXTINF:-1 tvg-id="" tvg-name="mbc IRAQ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="c|  mbc",mbc IRAQ
 https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
 
