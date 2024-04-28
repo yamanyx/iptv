@@ -221,3 +221,112 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 https://shls-live-ak.akamaized.net/out/v1/0fcbe9a01dc6474cbec18c1027326c50/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/hg9JPjAy81drsHR.png" group-title="d |  مسلسلات",رمضان 2024
 https://shls-live-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ALG2" tvg-logo="" group-title="z|الجزائر",ALG2
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG3" tvg-logo="" group-title="z|الجزائر",ALG3
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV4" tvg-logo="" group-title="z|الجزائر",TV4
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG5" tvg-logo="" group-title="z|الجزائر",ALG5
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG6" tvg-logo="" group-title="z|الجزائر",ALG6
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG7" tvg-logo="" group-title="z|الجزائر",ALG7
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALG8" tvg-logo="" group-title="z|الجزائر",ALG8
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BILAD" tvg-logo="" group-title="z|الجزائر",BILAD
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berbere" tvg-logo="" group-title="z|الجزائر",Berbere
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HADDAF" tvg-logo="" group-title="z|الجزائر",HADDAF
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Samira" tvg-logo="" group-title="z|الجزائر",Samira
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENTV" tvg-logo="" group-title="z|الجزائر",ENTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ChoroukeTV" tvg-logo="" group-title="z|الجزائر",ChoroukeTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NaharTV" tvg-logo="" group-title="z|الجزائر",NaharTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Echorouk News" tvg-logo="" group-title="z|الجزائر",Echorouk News
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bahia TV" tvg-logo="" group-title="z|الجزائر",BahiaTV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EL HAYAT TV" tvg-logo="" group-title="z|الجزائر",ELHAYAT TV
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="" group-title="z|الجزائر",الفجر
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
+
