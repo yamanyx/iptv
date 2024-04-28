@@ -65,7 +65,23 @@ https://www.aflam4you.net/playeraf.php?vid=1
  #EXTVLCOPT:http-player-type=webplayer
 https://www.aflam4you.net/playeraf.php?vid=75
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN SPORTS",SERVR 
-#EXTVLCOPT:http-player-type=webplayerhttps://www.aflam4you.net/playeraf.php?vid=167
+#EXTVLCOPT:http-player-type=webplayer
+https://www.aflam4you.net/playeraf.php?vid=167
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",سيرفر 2
+#EXTVLCOPT:http-user-agent=your agent here
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/306
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",سيرفر 2
+#EXTVLCOPT:http-user-agent=your agent here
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/307
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",سيرفر 2
+#EXTVLCOPT:http-user-agent=your agent here
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/308
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",سيرفر 2
+#EXTVLCOPT:http-user-agent=your agent here
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/309
 
 
 #EXTM3U
