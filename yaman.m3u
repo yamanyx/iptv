@@ -508,11 +508,13 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
 #EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/
 https://www.elahmad.com/tv/mobiletv/glarb.php?id=samatv
 #EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syriatv.jpg?v=6" group-title="سوريا",SYRIA 
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/
 #EXTVLCOPT:http-player-type=webplayer
 https://www.elahmad.com/tv/live/ok_ru.php?id=syriatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg?v=6" group-title="سوريا",SYRIA 1
@@ -570,3 +572,30 @@ http://208.115.214.148/live/DDB3FE3C4DA2B9C2C11F154E857553B5/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almashhad.jpg?v=6" group-title="لبنان",المشهد
 #EXTVLCOPT:http-user-agent=your agent here
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_2/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/royatv.jpg?v=6" group-title="الاردن",رؤيا
+https://royatv-live.daioncdn.net/royatv/royatv_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almamlakatv.jpg?v=6" group-title="الاردن",المملكة
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?v=629304983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/amman_tv.jpg?v=6" group-title="الاردن",عمان
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/jordan_tv.jpg?v=6" group-title="الاردن",الاردن
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhaqeqa.jpg?v=6" group-title="الاردن",الحقيقة
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/kifa.jpg?v=6" group-title="الاردن",كيف
+http://82.212.74.2:8000/live/hls/7311.m3u8?v=629304983&tokenekot=tkb0r4dsr1KXp1tBh4Fe
+
+
+
+
+
+
+
+
+
+
+
+
+
