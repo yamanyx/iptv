@@ -93,6 +93,49 @@ https://airmaxtv.online/airmaxpro8526/airmaxpro7894/308
 https://airmaxtv.online/airmaxpro8526/airmaxpro7894/309
 
 
+
+
+
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="B|SSC SPORTS",SSC SPORTS 1 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-1-ssc-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="B|SSC SPORTS",SSC SPORTS 2 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-2-ssc-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="B|SSC SPORTS",SSC SPORTS 3 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-3-ssc-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc4.jpg" group-title="B|SSC SPORTS",SSC SPORTS 4 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc5.jpg" group-title="B|SSC SPORTS",SSC SPORTS 5 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-5-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="B|SSC SPORTS",SSC EXTRA 1
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="B|SSC SPORTS",SSC EXTRA 2
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-2-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="B|SSC SPORTS",SSC EXTRA 3 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-3-cookiechoices-cdata-var.html
+
+
+
+
+
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/DubaiSport-Live.jpg" group-title="Bقنوات رياضية",دبي 1
