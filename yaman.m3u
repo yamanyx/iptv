@@ -69,11 +69,11 @@ https://www.aflam4you.net/playeraf.php?vid=75
 https://www.aflam4you.net/playeraf.php?vid=167
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN SPORTS",SERVR
-#EXTVLCOPT:http-user-agent=your agent here 
+
 #EXTVLCOPT:http-player-type=webplayer
 https://rotana.net/en/channels#/live/rotana-cinemamasr
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN SPORTS",SERVR
-#EXTVLCOPT:http-user-agent=your agent here 
+ 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://rotana.net/en/channels#/live/rotana-cinemamasr
 
