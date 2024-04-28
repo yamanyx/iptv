@@ -416,11 +416,87 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6" group-title="z|تونس",هنيبعل
 http://echtirak.com:8080/timeshift/112233/68360$timeshift86400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6" group-title="z|تونس",هنيبعل
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nessma_tv.jpg?v=6" group-title="z|تونس",نسمة
 http://echtirak.com:8080/timeshift/112233/68362$timeshift86400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nessma_tv.jpg?v=6" group-title="z|تونس",نسمة
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/68.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/attessia_tv.jpg?v=6" group-title="z|تونس",التاسعة
 http://echtirak.com:8080/timeshift/112233/68363$timeshift86400
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/elhiwar_ettounsi.jpg?v=6" group-title="z|تونس",الحوار
 http://echtirak.com:8080/timeshift/112234/68359$timeshift86400
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tunisia_watania1.jpg?v=6" group-title="z|تونس",الوطنية 1
 http://echtirak.com:8080/timeshift/112234/68358$timeshift86400
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="z|مصر",ON DRAMA
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg?v=6" group-title="z|مصر",CBC DRAMA
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dmc_live.jpg?v=6" group-title="z|مصر",DMC
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg?v=6" group-title="z|مصر",DMC DRAMA
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="http://www.elahmad.com/tv/mobiletv/images/almasriya_aloula.jpg?v=6" tvg-logo="" group-title="z|مصر",aloula
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cbc.jpg?v=6" group-title="z|مصر",SBC
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/474x/2b/44/49/2b44490e8603b1d4aafb4938af20bbfc.jpg" group-title="z|مصر",ماسبيرو
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilecomedy.jpg?v=6" group-title="z|مصر",NIL COMDY
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sada_el_balad_tv.jpg?v=6" group-title="z|مصر",صدى البلد
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilelife.jpg?v=6" group-title="z|مصر",NEIL LIF
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/niledrama.jpg?v=6" group-title="z|مصر",NEIL DRAMA
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nilesport.jpg?v=6" group-title="z|مصر",NEIL SPORT
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alnaharlive.jpg?v=6" group-title="z|مصر",النهار
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alhayat_tv.jpg?v=6" group-title="z|مصر",الحياة دراما
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg?v=6" group-title="z|مصر",القاهرة
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="z|مصر",ON DRAMA
+http://echtirak.com:8080/timeshift/112233/68364$timeshift86400
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg?v=6" group-title="z|مصر",CBC DRAMA
+http://echtirak.com:8080/timeshift/112233/68365$timeshift86400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg?v=6" group-title="z|مصر",DMC DRAMA
+http://echtirak.com:8080/timeshift/112233/68367$timeshift86400
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg?v=6" group-title="z|مصر",القاهرة و الناس
+http://echtirak.com:8080/timeshift/112233/68368$timeshift86400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alnaharlive_drama.jpg?v=6" group-title="z|مصر",النهار دراما
+http://echtirak.com:8080/timeshift/112233/68369$timeshift86400
+
+
+#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="z|مصر",mbc MSR 1
+https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="z|مصر",mbc MSR 2
+https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+
+
+
