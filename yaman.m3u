@@ -524,35 +524,49 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/104.m3u8
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8?token=771838870
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nbn_lebanon.jpg?v=6" group-title="لبنان",nbn
+#EXTVLCOPT:http-user-agent=your agent here
 http://echtirak.com:8080/timeshift/112233/68344$timeshift7200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/otv_lb.jpg?v=6" group-title="لبنان",otv
+#EXTVLCOPT:http-user-agent=your agent here
 http://echtirak.com:8080/timeshift/112233/68343$timeshift7200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/LBC_Live.jpg" group-title="لبنان",LBC
+#EXTVLCOPT:http-user-agent=your agent here
 http://echtirak.com:8080/timeshift/112233/68342$timeshift7200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/mtv.jpg" group-title="لبنان",MTV
+#EXTVLCOPT:http-user-agent=your agent here
 http://echtirak.com:8080/timeshift/112233/68341$timeshift7200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="لبنان",الجديد
+#EXTVLCOPT:http-user-agent=your agent here
 http://echtirak.com:8080/timeshift/112233/68340$timeshift7200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="لبنان",الجديد
+#EXTVLCOPT:http-user-agent=your agent here
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/otv_lb.jpg?v=6" group-title="لبنان",otv
+#EXTVLCOPT:http-user-agent=your agent here
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/mtv.jpg" group-title="لبنان",MTV
+#EXTVLCOPT:http-user-agent=your agent here
 https://mediaservices.pfs.gdn/v1/broadcast/mtv/primary/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="لبنان",الجديد
+#EXTVLCOPT:http-user-agent=your agent here
 http://208.115.214.148/live/DDB3FE3C4DA2B9C2C11F154E857553B5/4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/almanar.jpg" group-title="لبنان",المنار
-http://95.216.180.111:1935/live/43/playlist.m3u8
+#EXTVLCOPT:http-user-agent=your agent here
+https://s1.ettehadlive.com/live/43/chunklist_w396149158.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/almayadeen.jpg" group-title="لبنان",الميادين
+#EXTVLCOPT:http-user-agent=your agent here
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="لبنان",LBC
+#EXTVLCOPT:http-user-agent=your agent here
 https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1714369883~h=16e878d36c49007754213b4ed91a6aaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/LBC_Live.jpg" group-title="لبنان",LBC
+#EXTVLCOPT:http-user-agent=your agent here
 http://208.115.214.148/live/DDB3FE3C4DA2B9C2C11F154E857553B5/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almashhad.jpg?v=6" group-title="لبنان",المشهد
+#EXTVLCOPT:http-user-agent=your agent here
 https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_2/chunklist.m3u8
