@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://autodiagnosticsolutions.com/wp-content/uploads/2023/05/VIP-logo.jpg" group-title="server", vip
+#EXTVLCOPT:http-player-type=webplayer
+https://yamantv2024.blogspot.com/2024/03/xtv.html
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="Aاخبار",ALJAZEERA NEWS
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="Aاخبار",AL ARABIYA
@@ -562,8 +564,7 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
-#EXTVLCOPT:http-player-type=webplayer
-#EXTVLCOPT:http-referrer=https://www.elahmad.com/
+https://stream.sama-tv.net/hls/samatv.m3u8
 https://www.elahmad.com/tv/mobiletv/glarb.php?id=samatv
 #EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
 #EXTVLCOPT:http-referrer=https://mexawy.online
