@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="Aاخبار",ALJAZEERA NEWS
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="Aاخبار",AL ARABIYA
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://flax-media.com/player/?id=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lhbWFueXgvaXB0di9tYWluLyVEOCVCOSVEOSU4OCVEOCVBRiVEOCVBOSUyMCVEOCVCQSVEOSU4OCVEOCVBNyVEOCVCMS5tM3U=
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="Aاخبار",AL ARABIYA HADATH
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="http://teledunet.com/logos/f24.png" group-title="Aاخبار",FRANCE 24 ARABIC 24
