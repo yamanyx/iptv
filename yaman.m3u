@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://autodiagnosticsolutions.com/wp-content/uploads/2023/05/VIP-logo.jpg" group-title="server", vip
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://autodiagnosticsolutions.com/wp-content/uploads/2023/05/VIP-logo.jpg" group-title="A;server", vip
 #EXTVLCOPT:http-player-type=webplayer
-https://yamantv2024.blogspot.com/2024/03/xtv.html
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245444&testid=2508405-gm7t&url=https://yamantv2024.blogspot.com/2024/03/xtv.html
 #EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="Aاخبار",ALJAZEERA NEWS
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="Aاخبار",AL ARABIYA
