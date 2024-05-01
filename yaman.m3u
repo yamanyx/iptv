@@ -21,10 +21,11 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
-
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 1 
+http://cdn.footballii.ir:8080/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 1 
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-https://qt4.dwasat.com/upload/images/logo1.m3u8|referer=
+https://qt4.dwasat.com/upload/images/logo1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 2 
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
 https://qt4.dwasat.com/upload/images/logo2.m3u8|referer=http://wvvw.yariga.live/
@@ -37,7 +38,8 @@ https://qt4.dwasat.com/upload/images/logo4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 ᴴᴰ" live="2" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="Bتعمل وقت المباريات",SSC SPORTS 1
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
 https://qt4.dwasat.com/upload/images/logo8.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 ᴴᴰ" live="2" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="Bتعمل وقت المباريات",SSC SPORTS 1
+http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
 
 
 #EXTM3U
@@ -166,7 +168,11 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/DubaiSport-Live.jpg" group-title="Bقنوات رياضية",دبي 4
 https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports.jpg" group-title="Bقنوات رياضية",ابو ظبي 1
-http://azrotv.com/proxy/index.php/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports.jpg" group-title="Bقنوات رياضية",ابو ظبي 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports2.jpg" group-title="Bقنوات رياضية",ابو ظبي 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports2.jpg" group-title="Bقنوات رياضية",ابو ظبي 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/SharjahSportLive.jpg" group-title="Bقنوات رياضية",الشارقة الرياضية
@@ -758,14 +764,15 @@ https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/playli
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_one.jpg?v=6" group-title="الامارات",دبي ون
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abudhabi_alemarat.jpg?v=6" group-title="الامارات",الامارات
-https://live.elahmad.net/https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abudhabitv.jpg?v=6" group-title="الامارات",ابو ظبي
-https://live.elahmad.net/https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abu_dhabi_drama.jpg?v=6" group-title="الامارات",بينونة
 https://live.elahmad.net/https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abudhabitv.jpg?v=6" group-title="الامارات",ابو ظبي
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abudhabi_alemarat.jpg?v=6" group-title="الامارات",الامارات
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/DASH/master.mpd
 
 
 
