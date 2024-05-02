@@ -554,7 +554,8 @@ https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.
 #EXTINF:-1 tvg-id="" tvg-name="mbc MSR 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="z|مصر",mbc MSR 2
 https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="mbc MSR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Ten1010.jpg" group-title="z|مصر",TEN
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
 
 
@@ -774,6 +775,78 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.m
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/DASH/master.mpd
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="زي افلام" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyivDqRsE-IHdzD-haeXtCcpgbn4K5WtvdNBAlstlMA&s" group-title="افلام  ",زي افلام
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="روتانا افلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="افلام  ",روتانا افلام
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="روتانا سينما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="افلام  ",روتانا سينما
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/3594e39a8f6a2c156e9a6c972692bcf9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="دبي افلام" tvg-logo="https://media0043.elcinema.com/tvguide/1173_1.png" group-title="افلام  ",دبي افلام
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="اجيال" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n5XMiqcR-MKWwVl5Qkf7hVGC4IPcvcySXnP4I5GkWkQ_k=s900-c-k-c0x00ffffff-no-rj" group-title="افلام  ",اجيال
+http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام لايف" tvg-logo="https://trend.nl7za.com/wp-content/uploads/2023/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D8%A7%D9%8A%D9%84-%D9%84%D8%A7%D9%8A%D9%81-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-%D9%88%D8%B9%D8%B1%D8%A8%D8%B3%D8%A7%D8%AA-Nile-Life.jpg" group-title="افلام  ",افلام لايف
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام اكشن" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzBMhynqKw1N-uquFXwFFLmr-AfHozvTmBA1tuu-vzw&s" group-title="افلام  ",افلام اكشن
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام بلس" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeOdc_cwGC4mrAL6FToU3dijYle7Ok4tW7tCYwJF6IA&s" group-title="افلام  ",افلام بلس
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/280px-Kanal_7_2002-%3F_logosu.webp.png" group-title="افلام  ",افلام 
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="زي الوان" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-t-hnDCZ_RS38hwZjnTb1-PlDeM5i3LxyoysVzZxa02c=s900-c-k-c0x00ffffff-no-rj" group-title="افلام  ",زي الوان
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="mbc 5" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="افلام  ",mbc MAX
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="mbc action" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="افلام  ",mbc action
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/27.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="mbc 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="افلام  ",mbc 2
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
+
+
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://imgsrv.rotana.net/channels/1688402472.webp?w=65&h=65&fit=max"روتانا سينما, باقة روتانا
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
+
+#EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام, باقة روتانا
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/posttv.jpg" group-title="افلام  ",POST TV 
+https://tv.qmedia.ps/hls/post_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdEWnctniQE541ZdoMDTfDrXpDzBNSr9PL2XEsxqY17w&s" group-title="افلام  ",MAX TV
+https://edge66.magictvbox.com/liveApple/TubeFilm/tracks-v1a1/mono.m3u8
 
 
 
