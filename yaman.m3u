@@ -910,7 +910,6 @@ http://live.mp3quran.net:9988/;
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfxYh64NUgyA7hYIhxZr7YcXgnbRg3YIy9iMvCsfdfw&s" group-title="ALquran القران الكريم",ماهر المعيقلي
 http://live.mp3quran.net:8002/;
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/makkahtv.jpg" group-title="ALquran القران الكريم",مكة
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/quran-tv-live.jpg" group-title="ALquran القران الكريم",القران الكريم
@@ -925,4 +924,13 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Noor_Sham.jpg" group-title="ALquran القران الكريم",نور الشام
 http://multies.xyz/live/9C3EC2A9AE8769BC163BDF9869C5049F/25.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ahlu_quran.jpg" group-title="ALquran القران الكريم",اهل القران
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/iqraa_live.jpg" group-title="ALquran القران الكريم",أقرء
+https://pull-cdnw.anystream.uk/live/2dac68e4018e10001e1e8e3900000000/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/resalahinternational.jpg" group-title="ALquran القران الكريم",الرسالة
+https://rotananet.hibridcdn.net/rotana/risalaint_abr/token=p=53~e=1714721132~h=e0e53a1a7d313f91ba6a66e1ea336e12/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/fr_jpg/kabe.jpg" group-title="ALquran القران الكريم",مكة
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Bahrain_Quran.jpg" group-title="ALquran القران الكريم",البحرين
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
