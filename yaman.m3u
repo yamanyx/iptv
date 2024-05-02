@@ -564,7 +564,6 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
 https://stream.sama-tv.net/hls/samatv.m3u8
-https://www.elahmad.com/tv/mobiletv/glarb.php?id=samatv
 #EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8
