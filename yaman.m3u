@@ -876,17 +876,13 @@ https://edge66.magictvbox.com/liveApple/TubeFilm/tracks-v1a1/mono.m3u8
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://play-lh.googleusercontent.com/K92v2BMVqssttlJOpPyBj7ideJ0UGfffDL_PlewUuHaUQ_O3CWSiH-VG2K5ZZkVNAAw" group-title="ALquran القران الكريم", عبد الباسط  
-http://quraan.us:9916/;*.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfxYh64NUgyA7hYIhxZr7YcXgnbRg3YIy9iMvCsfdfw&s" group-title="ALquran القران الكريم",الشيخ ماهر المعيقلي
-http://server2.quraan.us:9856/;*.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1kcD5WBv6-EGiVVgkhtAi1-ajb_eQDKeNAgOEvcbpLA&s" group-title="ALquran القران الكريم",الشيخ سعد الغامدي
-http://server2.quraan.us:9854/;*.mp3
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPirjMg0Wczxew_IAHs2kSHblHXpcBhlm_cdcumfvmg&s" group-title="ALquran القران الكريم",مرتلاً عبد الرحمن  السديس
 http://quraan.us:9850/;*.mp3
 
-##EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/%D0%9C%D0%B8%D1%88%D0%B0%D1%80%D0%B8_%D0%A0%D0%B0%D1%88%D0%B8%D0%B4.jpg" group-title="ALquran القران الكريم",ال العفاسي  
-http://server2.quraan.us:9922/;*.mp3
+
 
 ##EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://media.unitedmuslimworld.com/img/24/01/06/13085.jpg" group-title="ALquran القران الكريم",للشيخ أحمد العجمي
 http://server2.quraan.us:9852/;*.mp3
