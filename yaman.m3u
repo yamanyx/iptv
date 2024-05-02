@@ -578,6 +578,17 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alyaumtv.jpg?v=6" group-title="سوريا",اليوم
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8?token=771838870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg?v=6" group-title="سوريا",الاخبارية
+#EXTVLCOPT:http-player-type=webplayer
+http://azrotv.com/m3u8/ok/?id=syrienews
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg?v=6" group-title="سوريا",sham fm
+#EXTVLCOPT:http-player-type=webplayer
+https://players.grtvstream.com/ShamFM.html
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nbn_lebanon.jpg?v=6" group-title="لبنان",nbn
 #EXTVLCOPT:http-user-agent=your agent here
