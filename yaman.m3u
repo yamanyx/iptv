@@ -910,3 +910,19 @@ http://live.mp3quran.net:9988/;
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfxYh64NUgyA7hYIhxZr7YcXgnbRg3YIy9iMvCsfdfw&s" group-title="ALquran القران الكريم",ماهر المعيقلي
 http://live.mp3quran.net:8002/;
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/makkahtv.jpg" group-title="ALquran القران الكريم",مكة
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/quran-tv-live.jpg" group-title="ALquran القران الكريم",القران الكريم
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/sunna-tv.jpg" group-title="ALquran القران الكريم",السنة النبوية
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Asharikah.jpg" group-title="ALquran القران الكريم",القران الكريم
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/sharjahtv2.jpg" group-title="ALquran القران الكريم",الشارقة 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/irthanabaoui.jpg" group-title="ALquran القران الكريم",الارث النبوي
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Noor_Sham.jpg" group-title="ALquran القران الكريم",نور الشام
+http://multies.xyz/live/9C3EC2A9AE8769BC163BDF9869C5049F/25.m3u8
+
