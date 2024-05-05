@@ -103,7 +103,7 @@ https://api.ready.mobi/api/v1/prism/proxy?prismid=2245444&testid=2508405-gm7t&ur
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://imgsrv.rotana.net/channels/1688402472.webp?w=65&h=65&fit=max"روتانا سينما, باقة روتانا
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_khlijia.jpg?v=6"روتانا خليجية, باقة روتانا
-https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1714378457~h=47903404d40040cc1a4a95a990afaacb/playlist.m3u8#url
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNCAwMToxMToyMSB8#url
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام, باقة روتانا
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام 2, باقة روتانا
@@ -220,6 +220,8 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports2.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 2
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports2.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 2
+https://edge66.magictvbox.com/liveApple/onSports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7uvlLsuXXCXPigmzDQIU0vUN7I635QAbIDeCBRJlbw&s" group-title="Bقنوات رياضية",POST SPORT
 https://tv.qmedia.ps/hls/tv_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaDNraVwOzUVP8jCPLIrM1xWrFK3zIEe0WK_mQYixHQ&s" group-title="Bقنوات رياضية",DHOUK SPORT
@@ -964,3 +966,27 @@ https://rotananet.hibridcdn.net/rotana/risalaint_abr/token=p=53~e=1714721132~h=e
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Bahrain_Quran.jpg" group-title="ALquran القران الكريم",البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="beIN Entertainment",beIN Movies 1ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/414
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="beIN Entertainment",beIN Movies 2ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/415
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="beIN Entertainment",beIN Movies 3ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/416
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="beIN Entertainment",beIN Movies 4ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/417
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="beIN Entertainment",beIN Series 1ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/418
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries2.png" group-title="beIN Entertainment",beIN Series 2ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/419
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1ᴴᴰ
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/420
