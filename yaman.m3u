@@ -77,13 +77,13 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 http://cdn.footballii.ir:8080/hls2/bein1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 1 
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-https://qt4.dwasat.com/upload/images/logo1.m3u8
+http://echtirak.com:8080/tdn/tdn/65357
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 2 
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-https://qt4.dwasat.com/upload/images/logo2.m3u8|referer=http://wvvw.yariga.live/
+http://echtirak.com:8080/tdn/tdn/63
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 3 
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-https://qt4.dwasat.com/upload/images/logo3.m3u8
+http://echtirak.com:8080/tdn/tdn/64
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 4
 #EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
 https://qt4.dwasat.com/upload/images/logo4.m3u8
