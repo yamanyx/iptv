@@ -70,28 +70,8 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALSHARQ NEWS" live="1" tvg-logo="http://teledunet.com/logos/sharqnewes.jpg" group-title="Aاخبار",ALSHARQ NEWS
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 1 
-http://cdn.footballii.ir:8080/hls2/bein1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 1 
-#EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-http://echtirak.com:8080/tdn/tdn/65357
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 2 
-#EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-http://echtirak.com:8080/tdn/tdn/63
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 3 
-#EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-http://echtirak.com:8080/tdn/tdn/64
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="Bتعمل وقت المباريات",BeIN SPORTS 4
-#EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-https://qt4.dwasat.com/upload/images/logo4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 ᴴᴰ" live="2" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="Bتعمل وقت المباريات",SSC SPORTS 1
-#EXTVLCOPT:http-referrer=http://wvvw.yariga.live/
-https://qt4.dwasat.com/upload/images/logo8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 ᴴᴰ" live="2" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="Bتعمل وقت المباريات",SSC SPORTS 1
-http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
+
 
 
 #EXTM3U
@@ -1132,8 +1112,22 @@ https://pufa.vercel.app/home/6
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS vip",BeIN SPORTS 4 
 https://pufa.vercel.app/home/7
 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS vip",BeIN SPORTS 1 
+http://echtirak.com:8080/tdn/tdn/65357
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS vip",BeIN SPORTS 2 
+http://echtirak.com:8080/tdn/tdn/62
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS vip",BeIN SPORTS 3 
+http://echtirak.com:8080/tdn/tdn/63
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS vip",BeIN SPORTS 4 
+http://echtirak.com:8080/tdn/tdn/64
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS vip",BeIN SPORTS 1 
+http://cdn.footballii.ir:8080/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="2" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS vip",BeIN SPORTS 1 
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 1 ᴴᴰ" live="2" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="Bتعمل وقت المباريات",SSC SPORTS 1
+http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
 
 
 
