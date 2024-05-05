@@ -599,13 +599,25 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alyaumtv.jpg?v=6" group-title="سوريا",اليوم
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8?token=771838870
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg?v=6" group-title="سوريا",الاخبارية
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPXOgP-afxdlVA3NNJq4NLgtOnTbp43DAqxTx_INADOloe4hMdmOp-xQVw&s=10" group-title="سوريا",الاخبارية
 #EXTVLCOPT:http-player-type=webplayer
 http://azrotv.com/m3u8/ok/?id=syrienews
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg?v=6" group-title="سوريا",sham fm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ77i8xFIw1Gzalqn-NRBuw7DZ9lO0W1e8bLFm3yTFUdBpOqeS-vt7b1M&s=10" group-title="سوريا",sham fm
 #EXTVLCOPT:http-player-type=webplayer
 https://players.grtvstream.com/ShamFM.html
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1a2KvvifOssLb437vnE8JdwW1hz1FTMj60Jh1u4UnNkgIdw9UeT1zE9l&s=10" group-title="سوريا",sham fm
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/361
+
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/360
+
+#EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/359
+
+
+
 
 
 
@@ -990,3 +1002,27 @@ https://airmaxtv.online/airmaxpro8526/airmaxpro7894/418
 https://airmaxtv.online/airmaxpro8526/airmaxpro7894/419
 #EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1ᴴᴰ
 https://airmaxtv.online/airmaxpro8526/airmaxpro7894/420
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 1
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 2
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/350
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 3
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 4
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfjSGZsjFcF6YZUNFHuzLgldeukEO0VgggV9RxAjYfluJwDLWRcBRNzer&s=10" group-title="mbc vip", mbc kds 1
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfjSGZsjFcF6YZUNFHuzLgldeukEO0VgggV9RxAjYfluJwDLWRcBRNzer&s=10" group-title="mbc vip", mbc kds 2
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOahtr-dpp40YMdjjm_I4ncdPOlsca79e_K0vkKbFyhJJ1y5aXgsnn9ip&s=10" group-title="mbc vip", mbc turk 1
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOahtr-dpp40YMdjjm_I4ncdPOlsca79e_K0vkKbFyhJJ1y5aXgsnn9ip&s=10" group-title="mbc vip", mbc turk 2
+https://airmaxtv.online/airmaxpro8526/airmaxpro7894/356
+
+
+
+
+
