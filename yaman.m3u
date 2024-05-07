@@ -5,7 +5,7 @@
 
 #EXTM3U
 
-🥶
+
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://play-lh.googleusercontent.com/K92v2BMVqssttlJOpPyBj7ideJ0UGfffDL_PlewUuHaUQ_O3CWSiH-VG2K5ZZkVNAAw" group-title="ALquran القران الكريم", عبد الباسط  
 http://quraan.us:9916/;*.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfxYh64NUgyA7hYIhxZr7YcXgnbRg3YIy9iMvCsfdfw&s" group-title="ALquran القران الكريم",الشيخ ماهر المعيقلي
@@ -1173,7 +1173,7 @@ https://sportina.app/FAJER-1/tracks-v1a1/mono.m3u8
 https://sportina.app/FAJER-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 3 
 https://sportina.app/FAJER-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="BEIN SPORTS vip,الفجر",الفجر 4 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر", الفجر 4
 https://sportina.app/FAJER-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 5 
