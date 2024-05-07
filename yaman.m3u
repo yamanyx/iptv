@@ -515,7 +515,7 @@ https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EL HAYAT TV" tvg-logo="" group-title="z|الجزائر",ELHAYAT TV
 #EXTVLCOPT:http-user-agent=DZAgexpl213
 https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="" group-title="z|الجزائر",الفجر
+#EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbzC6ASE7Y6emlTSUAVFCEL3JIg13B4jMDwkba_Wxi3GihbZ2gZbuers&s=10" group-title="z|الجزائر",الفجر
 #EXTVLCOPT:http-user-agent=DZAgexpl213
 https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
 
@@ -1137,7 +1137,12 @@ http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
 
 
 
-
+EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS vip",BeIN SPORTS 2 
+https://sportina.app/bein-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS vip",BeIN SPORTS 3 
+https://sportina.app/bein-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS vip",BeIN SPORTS 4 
+https://sportina.app/bein-4/index.m3u8
 
 
 
@@ -1159,3 +1164,20 @@ https://airmaxtv.online/airmaxpro8526/airmaxpro7894/355
 https://airmaxtv.online/airmaxpro8526/airmaxpro7894/356
 
 
+
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 1 
+https://sportina.app/FAJER-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 2 
+https://sportina.app/FAJER-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 3 
+https://sportina.app/FAJER-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="BEIN SPORTS vip",الفجر 4 
+https://sportina.app/FAJER-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 5 
+https://sportina.app/FAJER-5/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbzC6ASE7Y6emlTSUAVFCEL3JIg13B4jMDwkba_Wxi3GihbZ2gZbuers&s=10" group-title="الفجر",الفجر الجزائرية
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
