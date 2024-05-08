@@ -1138,9 +1138,9 @@ http://cdn.footballii.ir:8080/hls2/ssc1s.m3u8
 
 
 EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS vip",BeIN SPORTS 2 
-https://sportina.app/bein-2/index.m3u8
+http://185.224.217.9:2052/live/redouane66/123456/67393.m3u8?md5=a739d232a0c48f2347e186238ebd5105
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS vip",BeIN SPORTS 3 
-https://sportina.app/bein-3/index.m3u8
+http://185.224.217.9:2052/live/redouane66/123456/67394.m3u8?md5=a739d232a0c48f2347e186238ebd5105
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS vip",BeIN SPORTS 4 
 https://sportina.app/bein-4/index.m3u8
 
