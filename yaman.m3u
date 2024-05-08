@@ -16,7 +16,7 @@ https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btola
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRvc5_ku076bysq440fNpd6pZt-yKclsMvWw&usqp=CAU" group-title="Az. مباريات تجري الان", مباريات اليوم.بث مباشر 
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent= ..
 http://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://www.aflam4you.net
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://play-lh.googleusercontent.com/K92v2BMVqssttlJOpPyBj7ideJ0UGfffDL_PlewUuHaUQ_O3CWSiH-VG2K5ZZkVNAAw" group-title="ALquran القران الكريم", عبد الباسط  
 http://quraan.us:9916/;*.mp3
