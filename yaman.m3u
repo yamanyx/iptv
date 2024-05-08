@@ -1,4 +1,5 @@
 😁
+
 #EXTM3U
 
 
@@ -10,6 +11,13 @@
 #EXTVLCOPT:http-user-agent=..
 https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btolat.com/video
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRvc5_ku076bysq440fNpd6pZt-yKclsMvWw&usqp=CAU" group-title="Az. مباريات تجري الان", مباريات اليوم.بث مباشر 
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
+https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btolat.com/video
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://play-lh.googleusercontent.com/K92v2BMVqssttlJOpPyBj7ideJ0UGfffDL_PlewUuHaUQ_O3CWSiH-VG2K5ZZkVNAAw" group-title="ALquran القران الكريم", عبد الباسط  
 http://quraan.us:9916/;*.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfxYh64NUgyA7hYIhxZr7YcXgnbRg3YIy9iMvCsfdfw&s" group-title="ALquran القران الكريم",الشيخ ماهر المعيقلي
@@ -93,33 +101,33 @@ https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="BEIN + ssc web", bein 1
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
 https://www.aflam4you.net/playeraf.php?vid=68&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="BEIN + ssc web",bein 2
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
 https://www.aflam4you.net/playeraf.php?vid=2&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="BEIN + ssc web",bein 3 
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
 https://www.aflam4you.net/playeraf.php?vid=1&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="BEIN + ssc web",bein 4
  #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
 https://www.aflam4you.net/playeraf.php?vid=3&aflam_s=1&aflam_w=100%&aflam_h=150&aflam_k=
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN + ssc web",ssc 1 
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
 https://www.aflam4you.net/playeraf.php?vid=167&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv9Q4ScJw_Y3bBd83Xi6Ewx0-mYzEv3406VDo-9zA3Q&s" group-title="ماي سيما",مسلسلات 
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=your agent here
 https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mycima.wecima.show/watch/مشاهدة-مسلسل-حجرة-ورقة-مقص-موسم-1-حلقة-8/
 
