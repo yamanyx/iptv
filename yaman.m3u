@@ -90,21 +90,21 @@ https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
 https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="BEIN SPORTS", SERVR
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="BEIN + ssc web", bein 1
 #EXTVLCOPT:http-player-type=webplayer
-https://www.aflam4you.net/playeraf.php?vid=68
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="BEIN SPORTS",SERVR
+https://www.aflam4you.net/playeraf.php?vid=68&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein2.jpg?v=6" group-title="BEIN + ssc web",bein 2
 #EXTVLCOPT:http-player-type=webplayer
-https://www.aflam4you.net/playeraf.php?vid=2
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="BEIN SPORTS",SERVR 
+https://www.aflam4you.net/playeraf.php?vid=2&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein3.jpg?v=6" group-title="BEIN + ssc web",bein 3 
 #EXTVLCOPT:http-player-type=webplayer
-https://www.aflam4you.net/playeraf.php?vid=1
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="BEIN SPORTS",SERVR
+https://www.aflam4you.net/playeraf.php?vid=1&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein4.jpg?v=6" group-title="BEIN + ssc web",bein 4
  #EXTVLCOPT:http-player-type=webplayer
-https://www.aflam4you.net/playeraf.php?vid=75
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN SPORTS",SERVR 
+https://www.aflam4you.net/playeraf.php?vid=3&aflam_s=1&aflam_w=100%&aflam_h=150&aflam_k=1111111333
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN + ssc web",ssc 1 
 #EXTVLCOPT:http-player-type=webplayer
-https://www.aflam4you.net/playeraf.php?vid=167
+https://www.aflam4you.net/playeraf.php?vid=167&aflam_s=2&aflam_w=100%&aflam_h=150&aflam_k=
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv9Q4ScJw_Y3bBd83Xi6Ewx0-mYzEv3406VDo-9zA3Q&s" group-title="ماي سيما",مسلسلات 
 #EXTVLCOPT:http-player-type=webplayer
