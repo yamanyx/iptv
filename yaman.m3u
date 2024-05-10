@@ -93,13 +93,13 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
-https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports1.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
-https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports2.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
-https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports3.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 
-https://app6.bein-kora.live:5443/YallaGoalApp/streams/beINSports4.m3u8
+http://85.237.89.6:9590/ar-s/B-S-pre-4-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="BEIN + ssc web", bein 1
@@ -143,7 +143,7 @@ https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mycima.wecim
 https://rotana.net/en/channels#/live/rotana-cinemamasr
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bein1.jpg?v=6" group-title="BEIN SPORTS", SERVR
 #EXTVLCOPT:http-player-type=webplayer
-https://api.ready.mobi/api/v1/prism/proxy?prismid=2245444&testid=2508405-gm7t&url=https://yamantv2024.blogspot.com/2024/04/blog-post.html?src=https://airmaxtv.online/airmaxpro8526/airmaxpro7894/306.m3u8
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245444&testid=2508405-gm7t&url=https://yamantv2024.blogspot.com/2024/04/blog-post.html?src=https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/306.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://imgsrv.rotana.net/channels/1688402472.webp?w=65&h=65&fit=max"روتانا سينما, باقة روتانا
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_khlijia.jpg?v=6"روتانا خليجية, باقة روتانا
@@ -165,16 +165,16 @@ https://rotananet.hibridcdn.net/rotana/kids_abr/token=p=48~e=1714378134~h=b8a52c
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",سيرفر 2
 #EXTVLCOPT:http-user-agent=your agent here
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/306.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/306.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",سيرفر 2
 #EXTVLCOPT:http-user-agent=your agent here
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/307.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/307.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",سيرفر 2
 #EXTVLCOPT:http-user-agent=your agent here
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/308.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/308.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",سيرفر 2
 #EXTVLCOPT:http-user-agent=your agent here
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/309.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/309.m3u8
 
 
 
@@ -232,21 +232,21 @@ https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&ur
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="B|SSC SPORTS",SSC SPORTS 1 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/318.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/318.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="B|SSC SPORTS",SSC SPORTS 2 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/319.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/319.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="B|SSC SPORTS",SSC SPORTS 3 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/320.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc4.jpg" group-title="B|SSC SPORTS",SSC SPORTS 4 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/321.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc5.jpg" group-title="B|SSC SPORTS",SSC SPORTS 5 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/322.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="B|SSC SPORTS",SSC EXTRA 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/320.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/320.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="B|SSC SPORTS",SSC EXTRA 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/324.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/324.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="B|SSC SPORTS",SSC EXTRA 3 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/325.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/325.m3u8
 
 
 
@@ -315,9 +315,9 @@ http://88.99.167.201:1935/duhok/sp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsU9s43kWOB6Gi9BRi3xnj-kbqhFQtDQ7T2UT0nqDcZg&s" group-title="Bقنوات رياضية",N SPORT
 http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports.jpg" group-title="Bقنوات رياضية",ابو ظبي بريم 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/593.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/593.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports2.jpg" group-title="Bقنوات رياضية",ابو ظبي بريم 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/592.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/592.m3u8
 
 
 
@@ -689,13 +689,13 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/104.m3u8
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8?token=771838870
 
 #EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/359
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/359
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1a2KvvifOssLb437vnE8JdwW1hz1FTMj60Jh1u4UnNkgIdw9UeT1zE9l&s=10" group-title="سوريا", drama 24
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/361
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/361
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syriatv.jpg?v=6" group-title="سوريا",SYRIA 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/360
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/360
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nbn_lebanon.jpg?v=6" group-title="لبنان",nbn
@@ -900,65 +900,65 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/DASH/master.m
 
 
 #EXTINF:-1 tvg-id="sahiad comdy 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad comdy 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/500.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/500.m3u8
 #EXTINF:-1 tvg-id="sahiad comdy 2" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad comdy 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/501.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/501.m3u8
 #EXTINF:-1 tvg-id="sahiad comdy 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad comdy 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/502.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/502.m3u8
 
 
 #EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad drama 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/503.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/503.m3u8
 
 #EXTINF:-1 tvg-id="sahiad drama 2" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad drama 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/504.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/504.m3u8
 
 #EXTINF:-1 tvg-id="sahiad drama 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad drama 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/505.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/505.m3u8
 
 #EXTINF:-1 tvg-id="sahiad drama 4" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad drama 4
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/506.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/506.m3u8
 
 #EXTINF:-1 tvg-id="sahiad drama 5" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad drama 5
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/507.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/507.m3u8
 
 #EXTINF:-1 tvg-id="sahiad horoor 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad horoor 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/508.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/508.m3u8
 
 #EXTINF:-1 tvg-id="sahiad horoor 2" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad horoor 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/509.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/509.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="sahiad horoor 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad horoor 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/510.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/510.m3u8
 
 
 #EXTINF:-1 tvg-id="sahiad horoor 4" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad horoor 4
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/512.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/512.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="" group-title="ART",ART 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/408.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/408.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="" group-title="ART",ART 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/409.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/409.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="" group-title="ART",ART cima
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/410.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/410.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="" group-title="ART",ART HKAYAT 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/411.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/411.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="" group-title="ART",ART HKAYAT 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/412.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/412.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="" group-title="ART",ART MSLSKAT
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/413.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/413.m3u8
 
 
 
@@ -967,149 +967,149 @@ https://airmaxtv.online/airmaxpro8526/airmaxpro7894/413.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx ACITON
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/516.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/516.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx ACITON
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/517.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/517.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx ACITON
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/518.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/518.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx ACITON
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/519.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/519.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx ACITON
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/520.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/520.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx comdy
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/521.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/521.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx comdy
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/522.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/522.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx comdy
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/523.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/523.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx comdy
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/524.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/524.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx comdy
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/525.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/525.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx drama 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/526.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/526.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx drama 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/527.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/527.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx drama 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/528.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/528.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx drama 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/529.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/529.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx drama 
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/530.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/530.m3u8
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx hororr 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/531.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/531.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx hororr 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/532.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/532.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx hororr 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/533.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/533.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx hororr 4
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/534.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/534.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx hororr 5
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/535.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/535.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx thriller 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/536.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/536.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx thriller 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/537.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/537.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx thriller 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/538.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/538.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx thriller 4
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/539.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/539.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx thriller 5
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/540.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/540.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/541.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/541.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/542.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/542.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/543.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/543.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 4
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/544.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/544.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 5
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/545.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/545.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 6
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/546.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/546.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 7
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/547.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/547.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 8
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/548.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/548.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 9
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/549.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/549.m3u8
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 10
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/550.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/550.m3u8
 
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 11
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/551.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/551.m3u8
 
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",netflx arabic 12
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/552.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/552.m3u8
 
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",egy bst 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/553.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/553.m3u8
 
 
 
 #EXTINF:-1 tvg-id="netflx  " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNieoePBoqHiPdpQchKaRk2IZCsO9Zw6tmnoJKVMTW2kBNIchNMexSZkTE&s=10" group-title="Netflx",egy bst 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/554.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/554.m3u8
 
 
 
@@ -1118,19 +1118,19 @@ https://airmaxtv.online/airmaxpro8526/airmaxpro7894/554.m3u8
 
 
 EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="beIN Entertainment",beIN Movies 1ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/414.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="beIN Entertainment",beIN Movies 2ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/415.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/415.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="beIN Entertainment",beIN Movies 3ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/416.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="beIN Entertainment",beIN Movies 4ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/417.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/417.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="beIN Entertainment",beIN Series 1ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/418.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 2ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries2.png" group-title="beIN Entertainment",beIN Series 2ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/419.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/419.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1ᴴᴰ
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/420.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/420.m3u8
 
 
 
@@ -1175,21 +1175,21 @@ https://sportina.app/bein-4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/349.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/349.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/350.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/350.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 3
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/351.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/351.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w06Fl4zZseYAVLipcMEmQ6ounh-6O5KLxw&usqp=CAU" group-title="mbc vip", mbc movies 4
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/352.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/352.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfjSGZsjFcF6YZUNFHuzLgldeukEO0VgggV9RxAjYfluJwDLWRcBRNzer&s=10" group-title="mbc vip", mbc kds 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/353.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/353.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfjSGZsjFcF6YZUNFHuzLgldeukEO0VgggV9RxAjYfluJwDLWRcBRNzer&s=10" group-title="mbc vip", mbc kds 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/354.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/354.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOahtr-dpp40YMdjjm_I4ncdPOlsca79e_K0vkKbFyhJJ1y5aXgsnn9ip&s=10" group-title="mbc vip", mbc turk 1
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/355.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/355.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOahtr-dpp40YMdjjm_I4ncdPOlsca79e_K0vkKbFyhJJ1y5aXgsnn9ip&s=10" group-title="mbc vip", mbc turk 2
-https://airmaxtv.online/airmaxpro8526/airmaxpro7894/356.m3u8
+https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/356.m3u8
 
 
 
