@@ -1,4 +1,4 @@
-😁
+"😁
 
 #EXTM3U
 
@@ -121,7 +121,7 @@ https://www.aflam4you.net/playerae.php?vid=68&aflam_s=2&aflam_w=100%&aflam_h=556
  #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.121 Mobile Safari/537.36
-https://www.aflam4you.net/playeraf.php?vid=3
+https://www.aflam4you.net/playerae.php?vid=3&aflam_s=1&aflam_w=100%&aflam_h=556755&aflam_k=1111111333
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ssc1.jpg" group-title="BEIN + ssc web",ssc 1 
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
