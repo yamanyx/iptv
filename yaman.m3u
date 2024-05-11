@@ -8,8 +8,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5MSaQBQMIm4VvEjXJVUxlLic0mBUjfNAwsRPcZT7njp8p8B3DykXBWVv&s=10" group-title="Az.ملخص المباريات", ملخص المباريات
 #EXTVLCOPT:http-player-type=webplayer
 
-
-
+EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="تجريبي",جميل و هناء
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AC%D9%85%D9%8A%D9%84%20%D9%88%20%D9%87%D9%86%D8%A7%D8%A1.m3u
 
 #EXTVLCOPT:http-referrer=https://mobile.btolat.com
 #EXTVLCOPT:http-user-agent=..
