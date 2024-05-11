@@ -31,9 +31,15 @@ https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B9%D9%88%D8%AF%D8%A9%20%
 
 
 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",مرايا 2000 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%B1%D8%A7%D9%8A%D8%A72000.m3u
 
 
 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", فارغ
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%B1%D8%A7%D9%8A%D8%A72000.m3u
 
 #EXTVLCOPT:http-referrer=https://mobile.btolat.com
 #EXTVLCOPT:http-user-agent=..
