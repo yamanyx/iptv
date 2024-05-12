@@ -1,64 +1,104 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="شوف " live="1" tvg-logo=https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg"" group-title="وطن ع وتر
-https://eexxee7.blogspot.com/2023/02/ee.html?src=https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="شوف 2" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-http://shoofmax.b-cdn.net/alkandoush-1/ep1/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="اتدن" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-http://echtirak.com:8080/tdn/tdn/67295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الو" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid7.fb2024.online/file/atv-serv1/ramadan2024/arabi/Kristal-Bidayat-Al-Nihaya/01.mp4
-#EXTINF:-1 tvg-id="" tvg-name="مكس" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://airmaxtv.online/airmaxpro/airmaxprox/306.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ابرو" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://fvideo6d.ddns.me/2vod5n/2024-11.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/07.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/08.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/09.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/10.jpg
 
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo=https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg"" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/11.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/12.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/13.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/14.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/15.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/16.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/17.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/18.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/19.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/20.jpg
 
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg"" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/21.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/22.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/23.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/24.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/25.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/26.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/27.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/28.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/29.jpg
-#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://media0039.elcinema.com/uploads/_315x420_0d2f265d81e266accc7331c01c9cfbc8769441e1ff9c6f7d55766707be969a9b.jpg" group-title="وطن ع وتر
-https://vid5.fb001.online/file/wp-alooytv/arabic/series/2022/Watan.Ala.Watar/30.jpg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/31-1.jpg" group-title="sport web", الاخبارية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="sport web", bein 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=68
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="sport web", bein 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="sport web", bein 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="sport web", bein 4
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=3
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="sport web", 
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/167-1.jpg" group-title="sport web", ssc 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=176
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/112-1.jpg" group-title="sport web", ابو ظبي 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=112
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/114-1.jpg" group-title="sport web", ابو ظبي 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=114
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/32-1.jpg" group-title="sport web", ابو ظبي 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=32
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/101-1.jpg" group-title="sport web", ابو ظبي ٤
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=101
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2001-1.jpg" group-title="sport web", دوري الايطالي 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2001
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2002-1.jpg" group-title="sport web", دوري الايطالي 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=445
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="sport web", 
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="sport web", 
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="sport web", 
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+
+
 
