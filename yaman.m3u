@@ -1,4 +1,4 @@
-?"😁
+"😁
 
 #EXTM3U
 
@@ -219,64 +219,195 @@ https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/309.m3u8
 
 
 
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="B|SSC SPORTS",SSC SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/31-1.jpg" group-title="sport web", الاخبارية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="sport web", bein 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=68
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="sport web", bein 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="sport web", bein 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="sport web", bein 4
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=3
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="sport web", on
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/167-1.jpg" group-title="sport web", ssc 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=176
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/112-1.jpg" group-title="sport web", ابو ظبي 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=112
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/114-1.jpg" group-title="sport web", ابو ظبي 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=114
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/32-1.jpg" group-title="sport web", ابو ظبي 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=32
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/101-1.jpg" group-title="sport web", ابو ظبي ٤
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=101
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2001-1.jpg" group-title="sport web", دوري الايطالي 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2001
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2002-1.jpg" group-title="sport web", دوري الايطالي 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=445
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/445-1.jpg" group-title="sport web", on tim 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=445
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/445-1.jpg" group-title="sport web", on tim 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=33
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/212-1.jpg" group-title="sport web", on sport
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=212
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/108-1.jpg" group-title="sport web", الكاس 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=108
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/109-1.jpg" group-title="sport web", الكاس 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=109
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2352-1.jpg" group-title="sport web", الكأس 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2352
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2353-1.jpg" group-title="sport web", الكاس 4
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2353
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/107-1.jpg" group-title="sport web", العراقية الرياضية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=109
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/998-1.jpg" group-title="sport web", ssc extra 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=998
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/104-1.jpg" group-title="sport web", ssc 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=104
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/105-1.jpg" group-title="sport web", ssc 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=105
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2003-1.jpg" group-title="sport web", المغربية الرياضية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2003
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="sport web",SSC SPORTS 1 
 #EXTVLCOPT:http-user-agent=your agent here 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-1-ssc-1-cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="B|SSC SPORTS",SSC SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="sport web",SSC SPORTS 2 
 #EXTVLCOPT:http-user-agent=your agent here 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-2-ssc-1-cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="B|SSC SPORTS",SSC SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="sport web",SSC SPORTS 3 
 #EXTVLCOPT:http-user-agent=your agent here 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-3-ssc-1-cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc4.jpg" group-title="B|SSC SPORTS",SSC SPORTS 4 
-#EXTVLCOPT:http-user-agent=your agent here 
-#EXTVLCOPT:http-player-type=webplayer
-https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc5.jpg" group-title="B|SSC SPORTS",SSC SPORTS 5 
-#EXTVLCOPT:http-user-agent=your agent here 
-#EXTVLCOPT:http-player-type=webplayer
-https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-5-cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="B|SSC SPORTS",SSC EXTRA 1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="sport web",SSC EXTRA 1
 #EXTVLCOPT:http-user-agent=your agent here 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-1-cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="B|SSC SPORTS",SSC EXTRA 2
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="sport web",SSC EXTRA 2
 #EXTVLCOPT:http-user-agent=your agent here 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-2-cookiechoices-cdata-var.html
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="B|SSC SPORTS",SSC EXTRA 3 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="sport web",SSC EXTRA 3 
 #EXTVLCOPT:http-user-agent=your agent here 
 #EXTVLCOPT:http-player-type=webplayer
 https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-3-cookiechoices-cdata-var.html
 
 
-
-
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="B|SSC SPORTS",SSC SPORTS 1 
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/318.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="B|SSC SPORTS",SSC SPORTS 2 
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="B|SSC SPORTS",SSC SPORTS 3 
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc4.jpg" group-title="B|SSC SPORTS",SSC SPORTS 4 
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc5.jpg" group-title="B|SSC SPORTS",SSC SPORTS 5 
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="B|SSC SPORTS",SSC EXTRA 1
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="B|SSC SPORTS",SSC EXTRA 2
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="B|SSC SPORTS",SSC EXTRA 3 
-https://airmaxtv.online/airmaxpro85qq/airmaxpro78qq/325.m3u8
 
 
 
