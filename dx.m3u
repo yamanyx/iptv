@@ -29,10 +29,10 @@ https://www.aflam4you.net/playerae.php?vid=3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="sport web", 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="sport web", on
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
-
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/167-1.jpg" group-title="sport web", ssc 1
