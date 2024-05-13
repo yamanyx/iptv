@@ -1310,16 +1310,16 @@ https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/356.m3u8
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 1 
-https://sportina.app/FAJER-1/tracks-v1a1/mono.m3u8
+https://mejarserver.com/FAJER-1/video.m3u8?token=station_app
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 2 
-https://sportina.app/FAJER-2/tracks-v1a1/mono.m3u8
+https://mejarserver.com/FAJER-2/video.m3u8?token=station_app
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 3 
-https://sportina.app/FAJER-3/tracks-v1a1/mono.m3u8
+https://mejarserver.com/FAJER-3/video.m3u8?token=station_app
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر", الفجر 4
-https://sportina.app/FAJER-4/tracks-v1a1/mono.m3u8
+https://mejarserver.com/FAJER-4/video.m3u8?token=station_app
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 5 
-https://sportina.app/FAJER-5/tracks-v1a1/mono.m3u8
+https://mejarserver.com/FAJER-5/video.m3u8?token=station_app
 EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbzC6ASE7Y6emlTSUAVFCEL3JIg13B4jMDwkba_Wxi3GihbZ2gZbuers&s=10" group-title="الفجر",الفجر الجزائرية
 #EXTVLCOPT:http-user-agent=DZAgexpl213
 https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
