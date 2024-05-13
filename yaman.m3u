@@ -1322,14 +1322,14 @@ https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",جميل و هناء
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/yawmiyyat-jamil-w-hanaa-1.jpg" group-title="مسلسلات سورية",جميل و هناء
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AC%D9%85%D9%8A%D9%84%20%D9%88%20%D9%87%D9%86%D8%A7%D8%A1.m3u
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",مرايا 99
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/WDkxOeS8_R4/maxresdefault.jpg" group-title="مسلسلات سورية",مرايا 99
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%B1%D8%A7%D9%8A%D8%A799.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",مدير عام
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/fsKAE6g4rx0/maxresdefault.jpg" group-title="مسلسلات سورية",مدير عام
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%AF%D9%8A%D8%B1%20%D8%B9%D8%A7%D9%85.m3u
 
@@ -1338,17 +1338,18 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",عودة غوار
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdkE1nbuueBMy8OvBbNtxloPMDsEkBaEY3RDbUcSSOg&s" group-title="مسلسلات سورية",عودة غوار
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B9%D9%88%D8%AF%D8%A9%20%D8%BA%D9%88%D8%A7%D8%B1.m3u
 
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",مرايا 2000 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/WDkxOeS8_R4/maxresdefault.jpg" group-title="مسلسلات سورية",مرايا 2000 
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%B1%D8%A7%D9%8A%D8%A72000.m3u
 
-
-
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/ZpieFLMn054/maxresdefault.jpg" group-title="مسلسلات سورية",زمن البرغوت 1 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B2%D9%85%D9%86%20%D8%A7%D9%84%D8%A8%D8%B1%D8%BA%D9%88%D8%AA%201.m3u
 
