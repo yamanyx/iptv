@@ -1391,22 +1391,55 @@ https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D9%8A%D8%A7%D8%AF%D8%
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://media0043.elcinema.com/uploads/_320x_600da7d2028c537a96520b8d98c7b0cc17c0dfd18e1a3c0115fde0cb51989929.jpg" group-title="مسلسلات سورية", تمر حنة
 #EXTVLCOPT:http-player-type=m3u
-
-
-
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
-#EXTVLCOPT:http-player-type=m3u
-
-
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
-#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AA%D9%85%D8%B1%20%D8%AD%D9%86%D8%A9.m3u
 
 
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
 
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/assrar-almadina-1.jpg" group-title="مسلسلات سورية", اسرار المدينة
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D8%B3%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",مرايا 2011 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%B1%D8%A7%D9%8A%D8%A72011.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
 
 
 
