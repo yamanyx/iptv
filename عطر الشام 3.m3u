@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s"" group-title="عطر الشام 3", 1
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 2
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",3 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 4
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 5
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 6
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 7
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",8 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 9
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 10
+http://shoofmax.b-cdn.net//ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s"" group-title="عطر الشام 3",11 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",12 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 13
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 14
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 15
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 16
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 17
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",18 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 19
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",20 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s"" group-title="عطر الشام 3", 21
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 22
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 23
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 24
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",25 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3", 26
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",27 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",28 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",29 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",30 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep30/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 31" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",31 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep31/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 32" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",32 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep32/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 33" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",33 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep33/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 34" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",34 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep34/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 35" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",35 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep35/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 36" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",36 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep36/variant.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 33" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="عطر الشام 3",37 
+http://shoofmax.b-cdn.net/outr-alsham-jiz-3/ep37/variant.m3u8
