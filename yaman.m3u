@@ -1373,9 +1373,9 @@ https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A8%D8%B1%D9%88%D9%83%D8%
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://ser.brstej.com/uploads/articles/8a2240b4.jpeg" group-title="مسلسلات سورية", حوازيق
 #EXTVLCOPT:http-player-type=m3u
-
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AD%D9%88%D8%A7%D8%B2%D9%8A%D9%82.m3u
 
 
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
