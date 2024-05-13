@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png"" group-title="ميادة و ولادة", 1
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 2
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",3 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 4
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 5
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 6
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 7
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",8 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 9
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 10
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png"" group-title="ميادة و ولادة",11 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",12 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 13
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 14
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 15
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 16
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 17
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",18 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 19
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",20 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png"" group-title="ميادة و ولادة", 21
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 22
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 23
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 24
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",25 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة", 26
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",27 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",28 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",29 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://www.syria.tv/sites/default/files/2020-07/hamsoud_thambnail_27_3.png" group-title="ميادة و ولادة",30 
+http://shoofmax.b-cdn.net/mayyada-w-wlada/ep30/variant.m3u8
