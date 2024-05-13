@@ -768,20 +768,13 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg?v=6" group-title="z|مصر",القاهرة
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/73.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="z|مصر",ON DRAMA
-http://echtirak.com:8080/timeshift/112233/68364$timeshift86400
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cima.jpg?v=6" group-title="z|مصر",cima
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/63.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg?v=6" group-title="z|مصر",CBC DRAMA
-http://echtirak.com:8080/timeshift/112233/68365$timeshift86400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg?v=6" group-title="z|مصر",DMC DRAMA
-http://echtirak.com:8080/timeshift/112233/68367$timeshift86400
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg?v=6" group-title="z|مصر",القاهرة و الناس
-http://echtirak.com:8080/timeshift/112233/68368$timeshift86400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alnaharlive_drama.jpg?v=6" group-title="z|مصر",النهار دراما
-http://echtirak.com:8080/timeshift/112233/68369$timeshift86400
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="mbc MSR 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="z|مصر",mbc MSR 1
@@ -825,21 +818,8 @@ https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/361
 https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/360
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nbn_lebanon.jpg?v=6" group-title="لبنان",nbn
-#EXTVLCOPT:http-user-agent=your agent here
-http://echtirak.com:8080/timeshift/112233/68344$timeshift7200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/otv_lb.jpg?v=6" group-title="لبنان",otv
-#EXTVLCOPT:http-user-agent=your agent here
-http://echtirak.com:8080/timeshift/112233/68343$timeshift7200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/LBC_Live.jpg" group-title="لبنان",LBC
-#EXTVLCOPT:http-user-agent=your agent here
-http://echtirak.com:8080/timeshift/112233/68342$timeshift7200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/mtv.jpg" group-title="لبنان",MTV
-#EXTVLCOPT:http-user-agent=your agent here
-http://echtirak.com:8080/timeshift/112233/68341$timeshift7200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="لبنان",الجديد
-#EXTVLCOPT:http-user-agent=your agent here
-http://echtirak.com:8080/timeshift/112233/68340$timeshift7200
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="لبنان",الجديد
 #EXTVLCOPT:http-user-agent=your agent here
 #EXTVLCOPT:http-referrer=https://mexawy.online
