@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402"" group-title="حائرات", 1
+http://shoofmax.b-cdn.net/hairat/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 2
+http://shoofmax.b-cdn.net/hairat/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",3 
+http://shoofmax.b-cdn.net/hairat/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 4
+http://shoofmax.b-cdn.net/hairat/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 5
+http://shoofmax.b-cdn.net/hairat/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 6
+http://shoofmax.b-cdn.net/hairat/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 7
+http://shoofmax.b-cdn.net/hairat/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="" group-title="حائرات",8 
+http://shoofmax.b-cdn.net/hairat/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 9
+http://shoofmax.b-cdn.net/hairat/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 10
+http://shoofmax.b-cdn.net/hairat/ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402"" group-title="حائرات",11 
+http://shoofmax.b-cdn.net/hairat/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",12 
+http://shoofmax.b-cdn.net/hairat/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 13
+http://shoofmax.b-cdn.net/hairat/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 14
+http://shoofmax.b-cdn.net/hairat/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 15
+http://shoofmax.b-cdn.net/hairat/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 16
+http://shoofmax.b-cdn.net/hairat/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 17
+http://shoofmax.b-cdn.net/hairat/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",18 
+http://shoofmax.b-cdn.net/hairat/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 19
+http://shoofmax.b-cdn.net/hairat/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",20 
+http://shoofmax.b-cdn.net/hairat/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402"" group-title="حائرات", 21
+http://shoofmax.b-cdn.net/hairat/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 22
+http://shoofmax.b-cdn.net/hairat/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 23
+http://shoofmax.b-cdn.net/hairat/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 24
+http://shoofmax.b-cdn.net/hairat/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",25 
+http://shoofmax.b-cdn.net/hairat/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات", 26
+http://shoofmax.b-cdn.net/hairat/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",27 
+http://shoofmax.b-cdn.net/hairat/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",28 
+http://shoofmax.b-cdn.net/hairat/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",29 
+http://shoofmax.b-cdn.net/hairat/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",30 
+http://shoofmax.b-cdn.net/hairat/ep30/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 31" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",31 
+http://shoofmax.b-cdn.net/hairat/ep31/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 32" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",32 
+http://shoofmax.b-cdn.net/hairat/ep32/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 33" live="1" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="حائرات",33 
+http://shoofmax.b-cdn.net/hairat/ep33/variant.m3u8
