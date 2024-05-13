@@ -1378,9 +1378,9 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://ser.brstej.com/upload
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AD%D9%88%D8%A7%D8%B2%D9%8A%D9%82.m3u
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://khbrpress.ps/thumb/730x400/uploads/images/2021/04/HhFWN.jpeg" group-title="مسلسلات سورية", الكندوش 1
 #EXTVLCOPT:http-player-type=m3u
-
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D9%84%D9%83%D9%86%D8%AF%D9%88%D8%B41.m3u
 
 
 
