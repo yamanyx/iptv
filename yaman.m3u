@@ -1442,7 +1442,7 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://media0043.elcinema.co
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D8%B1%D9%88%D8%A7%D8%AD%20%D8%B9%D8%A7%D8%B1%D9%8A%D8%A9.m3u
 
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="مسلسلات سورية", 'طوق البنات 1
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="مسلسلات سورية", طوق البنات 1
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA%201.m3u
 
@@ -1459,14 +1459,15 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/i
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA%204.m3u
 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://watanflix.com/images/series/%20%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D9%88%D8%B7%D9%861534326272.jpg" group-title="مسلسلات سورية", تحت السماء الوطن
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AA%D8%AD%D8%AA%20%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A7%D9%84%D9%88%D8%B7%D9%86.m3u
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Zw2N8I20qCjAE7SuFP8fcuHxiZdxsZ4iCZgGqeMD0w&s" group-title="مسلسلات سورية", فتت لعبت
 #EXTVLCOPT:http-player-type=m3u
-
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
-#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%81%D8%AA%D8%AA%20%D9%84%D8%B9%D8%A8%D8%AA.m3u
 
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
