@@ -1429,10 +1429,36 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B3%D9%88%D9%82%20%D8%A7%D9%84%D9%88%D8%B1%D9%82.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="مسلسلات سورية",phzvhj 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="مسلسلات سورية",حائرات
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AD%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA.m3u
 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="مسلسلات سورية",حدث في دمشق 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AD%D8%AF%D8%AB%20%D9%81%D9%8A%20%D8%AF%D9%85%D8%B4%D9%82.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://media0043.elcinema.com/uploads/_320x_bb9ed0886667c48624791b2c628be2620ba39c79c25dbe527b7b4151fbefbf12.jpg" group-title="مسلسلات سورية", ارواح عارية
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D8%B1%D9%88%D8%A7%D8%AD%20%D8%B9%D8%A7%D8%B1%D9%8A%D8%A9.m3u
+
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="مسلسلات سورية", 'طوق البنات 1
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA%201.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="مسلسلات سورية", طوق البنات 2
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA%202.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="مسلسلات سورية", طوق البنات 3
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA%203.m3u
+
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="مسلسلات سورية", طوق البنات 4
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B7%D9%88%D9%82%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA%204.m3u
+
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
 
@@ -1448,7 +1474,47 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
 
 
 
