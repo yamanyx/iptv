@@ -707,24 +707,21 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6" group-title="z|تونس",هنيبعل
-http://echtirak.com:8080/timeshift/112233/68360$timeshift86400
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6" group-title="z|تونس",هنيبعل
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nessma_tv.jpg?v=6" group-title="z|تونس",نسمة
-http://echtirak.com:8080/timeshift/112233/68362$timeshift86400
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nessma_tv.jpg?v=6" group-title="z|تونس",نسمة
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/attessia_tv.jpg?v=6" group-title="z|تونس",التاسعة
-http://echtirak.com:8080/timeshift/112233/68363$timeshift86400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/elhiwar_ettounsi.jpg?v=6" group-title="z|تونس",الحوار
-http://echtirak.com:8080/timeshift/112234/68359$timeshift86400
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tunisia_watania1.jpg?v=6" group-title="z|تونس",الوطنية 1
-http://echtirak.com:8080/timeshift/112234/68358$timeshift86400
+https://ythls.armelin.one/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://tse2.mm.bing.net/th?id=OIP.kaX-9zC2U_7n_YVPtRlqdQHaE7&pid=Api&f=1&ipt=96ee8650d01638bcb64d93ec5c832575bf2b1f16c46769f799941912885e084a&ipo=images" group-title="z|تونس",الوطنية 2
+https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="z|مصر",ON DRAMA
 #EXTVLCOPT:http-referrer=https://mexawy.online
