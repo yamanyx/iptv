@@ -1363,3 +1363,32 @@ https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B2%D9%85%D9%86%20%D8%A7%
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/oy_NDwR4S6M/hqdefault.jpg" group-title="مسلسلات سورية",كشف الاقنعة 
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%83%D8%B4%D9%81%20%D8%A7%D9%84%D8%A7%D9%82%D9%86%D8%B9%D8%A9.m3u
+
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://waterlootimes.ca/wp-content/uploads/2021/02/1-42.jpg" group-title="مسلسلات سورية", بروكار
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A8%D8%B1%D9%88%D9%83%D8%A7%D8%B1.m3u
+
+
+
+
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+
+
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+#EXTVLCOPT:http-player-type=m3u
+
+
+
+
+
+
