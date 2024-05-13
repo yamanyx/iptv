@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg"" group-title="خطوط حمراء", 1
+http://shoofmax.b-cdn.net/khotout-hamraa/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 2
+http://shoofmax.b-cdn.net/khotout-hamraa/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",3 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 4
+http://shoofmax.b-cdn.net/khotout-hamraa/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 5
+http://shoofmax.b-cdn.net/khotout-hamraa/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 6
+http://shoofmax.b-cdn.net/khotout-hamraa/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 7
+http://shoofmax.b-cdn.net/khotout-hamraa/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",8 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 9
+http://shoofmax.b-cdn.net/khotout-hamraa/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 10
+http://shoofmax.b-cdn.net/khotout-hamraa/ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg"" group-title="خطوط حمراء",11 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",12 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 13
+http://shoofmax.b-cdn.net/khotout-hamraa/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 14
+http://shoofmax.b-cdn.net/khotout-hamraa/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 15
+http://shoofmax.b-cdn.net/khotout-hamraa/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 16
+http://shoofmax.b-cdn.net/khotout-hamraa/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 17
+http://shoofmax.b-cdn.net/khotout-hamraa/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",18 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 19
+http://shoofmax.b-cdn.net/khotout-hamraa/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",20 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg"" group-title="خطوط حمراء", 21
+http://shoofmax.b-cdn.net/khotout-hamraa/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 22
+http://shoofmax.b-cdn.net/khotout-hamraa/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 23
+http://shoofmax.b-cdn.net/khotout-hamraa/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 24
+http://shoofmax.b-cdn.net/khotout-hamraa/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",25 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء", 26
+http://shoofmax.b-cdn.net/khotout-hamraa/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",27 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",28 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",29 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="خطوط حمراء",30 
+http://shoofmax.b-cdn.net/khotout-hamraa/ep30/variant.m3u8
