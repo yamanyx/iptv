@@ -1404,18 +1404,22 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D8%B3%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية",مرايا 2011 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://dgthxs6iigx6n.cloudfront.net/s3fs-public/styles/show_page_image/public/maraya_homepage_banner_design_musawa_030816.jpg?itok=iwV8olS0" group-title="مسلسلات سورية",مرايا 2011 
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D8%B1%D8%A7%D9%8A%D8%A72011.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/milh-alhayat-1.jpg" group-title="مسلسلات سورية", ملح الحياة
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%85%D9%84%D8%AD%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
-#EXTVLCOPT:http-player-type=m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://al-akhbar.com/Images/ArticleImages/p18_20100202_pic1.jpg" group-title="مسلسلات سورية", لعنة الطين
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%84%D8%B9%D9%86%D8%A9%20%D8%A7%D9%84%D8%B7%D9%8A%D9%86.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/VCGlAxjf7W8/maxresdefault.jpg" group-title="مسلسلات سورية", المفتاح
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%A7%D8%AD.m3u
 
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
