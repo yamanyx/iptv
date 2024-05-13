@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg"" group-title="طوق البنات 2", 1
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 2
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",3 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 4
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 5
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 6
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 7
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="" group-title="طوق البنات 2",8 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 9
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 10
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg"" group-title="طوق البنات 2",11 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",12 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 13
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 14
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 15
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 16
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 17
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",18 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 19
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",20 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg"" group-title="طوق البنات 2", 21
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 22
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 23
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 24
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",25 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2", 26
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",27 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",28 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",29 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q100R169/images/programs/121/BRy1cyToSGYEtln.jpg" group-title="طوق البنات 2",30 
+http://shoofmax.b-cdn.net/tawq-albanat-2/ep30/variant.m3u8
