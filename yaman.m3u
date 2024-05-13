@@ -1421,14 +1421,17 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://i.ytimg.com/vi/VCGlAx
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%A7%D8%AD.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/khotout-hamraa-1.jpg" group-title="مسلسلات سورية", خطوط حمراء
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AE%D8%B7%D9%88%D8%B7%20%D8%AD%D9%85%D8%B1%D8%A7%D8%A1.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/program/main/souq-alwaraq-1.jpg" group-title="مسلسلات سورية", سوق الورق
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B3%D9%88%D9%82%20%D8%A7%D9%84%D9%88%D8%B1%D9%82.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.almodon.com/file/get/BB0750BA-46BD-4BD0-9D5B-E4C3E99C5402" group-title="مسلسلات سورية",phzvhj 
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AD%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA.m3u
 
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
