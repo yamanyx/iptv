@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s"" group-title="نساء من هذا الزمن", 1
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 2
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",3 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 4
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 5
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 6
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 7
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",8 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="", 9
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 10
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s"" group-title="نساء من هذا الزمن",11 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",12 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 13
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 14
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 15
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 16
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 17
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",18 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 19
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",20 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s"" group-title="نساء من هذا الزمن", 21
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 22
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 23
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 24
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",25 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن", 26
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",27 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",28 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",29 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",30 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep30/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 31" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",31 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep31/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 32" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",32 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep32/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 33" live="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="نساء من هذا الزمن",33 
+http://shoofmax.b-cdn.net/nisaa-min-haza-alzaman/ep33/variant.m3u8
