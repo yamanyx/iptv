@@ -1469,11 +1469,25 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstati
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%81%D8%AA%D8%AA%20%D9%84%D8%B9%D8%A8%D8%AA.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzccc7k8FOYZy2UF3yjsQ0gTStGTaoW0F_Pe0QVOG4eA&s" group-title="مسلسلات سورية", نساء من هذا الزمن
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D9%86%D8%B3%D8%A7%D8%A1%20%D9%85%D9%86%20%D9%87%D8%B0%D8%A7%20%D9%84%D8%A8%D8%B2%D9%85%D9%86.m3u
 
-EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="1 مسلسلات سورية", عطر الشام 
 #EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B9%D8%B7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%201.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="2 مسلسلات سورية", عطر الشام 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B9%D8%B7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%202.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="3 مسلسلات سورية", عطر الشام 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B9%D8%B7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%203.m3u
+
+EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNtUKfbyRyNBZJe6iE21wwRvCV4kJlsforCaIX2GXUdg&s" group-title="4 مسلسلات سورية",  عطر الشام 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%B9%D8%B7%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%204.m3u
 
 EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="مسلسلات سورية", 
 #EXTVLCOPT:http-player-type=m3u
