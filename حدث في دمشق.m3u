@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 1" live="1" tvg-logo=https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg"" group-title="حدث في دمشق", 1
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 2" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 2
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep2/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة  3" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",3 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep3/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 4" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 4
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep4/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 5" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 5
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep5/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 6" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 6
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep6/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 7" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 7
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep7/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 8" live="1" tvg-logo="" group-title="حدث في دمشق",8 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep8/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 9" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 9
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep9/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 10" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 10
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep10/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 11" live="1" tvg-logo=https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg"" group-title="حدث في دمشق",11 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep12/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 12" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",12 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep13/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 13" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 13
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep14/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 14" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 14
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep1/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 15" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 15
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep15/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 16" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 16
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep16/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 17" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 17
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep17/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 18" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",18 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep18/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 19" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 19
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep19/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 20" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",20 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep20/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 21" live="1" tvg-logo=https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg"" group-title="حدث في دمشق", 21
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep21/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 22" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 22
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep22/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 23" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 23
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep23/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 24" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 24
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep24/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 25" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",25 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep25/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 26" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق", 26
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep26/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 27" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",27 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep27/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 28" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",28 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep28/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 29" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",29 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep29/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الحلقة 30" live="1" tvg-logo="https://www.ranksarabia.com/img/content/21a7bdd8-20e8-43da-b8c2-f39080827d6e.jpg" group-title="حدث في دمشق",30 
+http://shoofmax.b-cdn.net/ya-mal-alsham/ep30/variant.m3u8
