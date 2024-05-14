@@ -14,9 +14,13 @@
 #EXTVLCOPT:http-user-agent=..
 https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btolat.com/video
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://woww.cc/wp-content/uploads/2019/05/2708-6.jpg&f=1&nofb=1&ipt=e3a277a39d5e42db059d904bd9e732a9b3a67bce9b91329254e75c142691ab09&ipo=images" group-title=" سيرفرات قنوات",   القنوات العربية ويب
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/9.m3u
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4S12E_aLmH6rXeq9ipcYSY81ZuC6dEctpIw&usqp=CAU" group-title=" Turkya",   القنوات التركية
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://ar.clinicadvisor.com/images/3edfbcf39e134b9e178af1361aef3fe557a84af6.jpg&f=1&nofb=" group-title=" سيرفرات قنوات",   القنوات التركية
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/tv.m3u
 
