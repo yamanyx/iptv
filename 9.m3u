@@ -151,3 +151,1179 @@ https://www.elahmad.com/tv/alkass_hd.php?id=5
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer 
 https://www.elahmad.com/tv/alkass_hd.php?id=6
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/esc_althanya.jpg?v=6",  المصرية 2
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=al_thaniya
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/esc_egypt.jpg?v=6",  المصرية
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=almasriyah
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alnaharlive.jpg?v=6",  النهار
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=nahar_tv1
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_tv.jpg?v=6",  صدى البلد
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=sadaelbalad
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sada_el_balad_drama.jpg?v=6",  صدى البلد دراما
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=sadadrama
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg?v=6", القاهرة و الناس 
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkaherawalnas2.jpg?v=6",  القاهرة و الناس 2
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas2
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dmc_live.jpg?v=6",  dmc liv
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dmc_drama.jpg?v=6",  dmc drama
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6", ON 
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1
+
+
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/on_drama.jpg?v=6",  ON DRAMA
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
