@@ -1,4 +1,4 @@
-#EXTM3U
+!#EXTM3U
  #EXTINF:-1 group-title="ALGERIA" tvg-logo="https://i.ibb.co/RNC5GYN/al1.jpg", ALgerie 1 
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
@@ -237,95 +237,95 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X)
 https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/cbc.jpg?v=6",  cbc
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg?v=6",  cbc drama
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_tv.jpg?v=6",  الحياة
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_1
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alhayat_drama.jpg?v=6",  الحياة دراما
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/watchtv.php?id=alhayat_drama
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nilecinema.jpg?v=6",  نيل سينما
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_cinema
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/niledrama.jpg?v=6",  نيل دراما
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_drama
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nilefamily.jpg?v=6",  نيل العائلة
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_family
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nilelife.jpg?v=6",  نيل لايف
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_life
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nileculture.jpg?v=6", نيل الثقافية 
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/arabic-tv-online.php?id=nileculture
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nileint.jpg?v=6",  نيل TV
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_tv
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/panorama_drama.jpg?v=6",  بانوراما دراما
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=panorama_drama
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/panorama_drama2.jpg?v=6",  بانوراما 2
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=panorama_drama2
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="مصر" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/panorama_film.jpg?v=6",  بانوراما فيلم
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=panorama_film
 
 
 #EXTINF:-1 group-title="" tvg-logo="",  
@@ -335,85 +335,85 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X)
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6",  MBC
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc1_tv_1
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6", MBC2 
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",  MBC 3
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc3_tv_1
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6",  MBC 4
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc4_tv_1
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6", MBC 5 
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc5_tv_1
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6", MBC DRAMA 
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcdrama_tv_1
 
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6",  MBC DRAMA+
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_drama_plus
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6",  MBC ACTION
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6",  MBC MSR
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6",  MBC MSR 2
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr2_tv_1
 
 
-
-#EXTINF:-1 group-title="" tvg-logo="",  
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6",  MBC IRAQ
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
 #EXTVLCOPT:http-player-type=webplayer
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbciraq_tv_1
 
 
-
 #EXTINF:-1 group-title="" tvg-logo="",  
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
@@ -1275,53 +1275,241 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X)
 #EXTINF:-1 group-title="" tvg-logo="",  
 #EXTVLCOPT:http-referrer=https://www.elahmad.com/ 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 Safari/604.1 
+#EXTVLCOPT:http-player-type=webplayer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/31-1.jpg" group-title="sport web", الاخبارية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playeraf.php?vid=31&aflam_s=1&aflam_w=100%&aflam_h=556755&aflam_k=1111111333
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="sport web", bein 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=68
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="sport web", bein 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="sport web", bein 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="sport web", bein 4
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=3
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ontveg.jpg?v=6" group-title="sport web", on
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+http://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/167-1.jpg" group-title="sport web", ssc 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=176
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/112-1.jpg" group-title="sport web", ابو ظبي 1
 #EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=112
+
+
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/114-1.jpg" group-title="sport web", ابو ظبي 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=114
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/32-1.jpg" group-title="sport web", ابو ظبي 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=32
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/101-1.jpg" group-title="sport web", ابو ظبي ٤
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=101
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2001-1.jpg" group-title="sport web", دوري الايطالي 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2001
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2002-1.jpg" group-title="sport web", دوري الايطالي 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=445
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/445-1.jpg" group-title="sport web", on tim 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=445
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/445-1.jpg" group-title="sport web", on tim 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=33
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/212-1.jpg" group-title="sport web", on sport
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=212
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/108-1.jpg" group-title="sport web", الكاس 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=108
 
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/109-1.jpg" group-title="sport web", الكاس 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=109
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2352-1.jpg" group-title="sport web", الكأس 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2352
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2353-1.jpg" group-title="sport web", الكاس 4
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2353
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/107-1.jpg" group-title="sport web", العراقية الرياضية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=109
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/998-1.jpg" group-title="sport web", ssc extra 1
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=998
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/104-1.jpg" group-title="sport web", ssc 2
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=104
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/105-1.jpg" group-title="sport web", ssc 3
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=105
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/2003-1.jpg" group-title="sport web", المغربية الرياضية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.net
+https://www.aflam4you.net/playerae.php?vid=2003
 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc1.jpg" group-title="sport web",SSC SPORTS 1 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-1-ssc-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc2.jpg" group-title="sport web",SSC SPORTS 2 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-2-ssc-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc3.jpg" group-title="sport web",SSC SPORTS 3 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-3-ssc-1-cookiechoices-cdata-var.html
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra1.jpg" group-title="sport web",SSC EXTRA 1
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-1-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra2.jpg" group-title="sport web",SSC EXTRA 2
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-2-cookiechoices-cdata-var.html
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc/ssc_extra3.jpg" group-title="sport web",SSC EXTRA 3 
+#EXTVLCOPT:http-user-agent=your agent here 
+#EXTVLCOPT:http-player-type=webplayer
+https://api.ready.mobi/api/v1/prism/proxy?prismid=2245239&testid=2508194-s0fd&url=https://yamantv2024.blogspot.com/2024/03/ssc-extra-3-cookiechoices-cdata-var.html
 
 
 
