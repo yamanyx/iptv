@@ -72,21 +72,21 @@ http://live.mp3quran.net:8002/;
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="http://teledunet.com/logos/aljazeera.png" group-title="Aاخبار",ALJAZEERA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA NEWS" live="1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljazeera.jpg?v=6" group-title="Aاخبار",الجزيرة
 https://live-hls-web-aja.getaj.net/AJA/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="http://teledunet.com/logos/apps.28826.13510798882868735.db64017b-9fae-479f-85b3-f7932b9966d5.png" group-title="Aاخبار",AL ARABIYA
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA" live="1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alarabiya.jpg?v=6" group-title="Aاخبار",العربية
 https://flax-media.com/player/?id=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lhbWFueXgvaXB0di9tYWluLyVEOCVCOSVEOSU4OCVEOCVBRiVEOCVBOSUyMCVEOCVCQSVEOSU4OCVEOCVBNyVEOCVCMS5tM3U=
-#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="http://teledunet.com/logos/hadath.png" group-title="Aاخبار",AL ARABIYA HADATH
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA HADATH" live="1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/al_arabiya_alhadath.jpg?v=6" group-title="Aاخبار",العربية الحدث
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="http://teledunet.com/logos/f24.png" group-title="Aاخبار",FRANCE 24 ARABIC 24
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC 24" live="1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://3.bp.blogspot.com/-GndArfmci-0/WAEDAfqCnGI/AAAAAAAACD4/wzsFn1YOnK8LgDEyCALyvx7HmY88F1v2gCLcB/s1600/france%2B24.jpg&f=1&nofb=1&ipt=6be75c4d543aefec4a4c33ccf66dfa2f596b9f9da50e52bdf22eceeb41c2eb17&ipo=images" group-title="Aاخبار",فرنسا 24
 https://raw.githubusercontent.com/yamanyx/iptv/main/bab.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="http://teledunet.com/logos/Russia-today-logo.svg.png" group-title="Aاخبار",RUSSIA TODAY
+#EXTINF:-1 tvg-id="" tvg-name="RUSSIA TODAY" live="1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://www.altkia.com/wp-content/uploads/2015/03/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-5" group-title="Aاخبار",روسيا اليوم
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL HIWAR NEWS" live="1" tvg-logo="http://teledunet.com/logos/hiwarnews.jpg" group-title="Aاخبار",AL HIWAR NEWS
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" live="1" tvg-logo="http://teledunet.com/logos/dw.jpg" group-title="Aاخبار",DW ARABIC
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALSHARQ NEWS" live="1" tvg-logo="http://teledunet.com/logos/sharqnewes.jpg" group-title="Aاخبار",ALSHARQ NEWS
+#EXTINF:-1 tvg-id="" tvg-name="ALSHARQ NEWS" live="1" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://www.elgmalnews.com/wp-content/uploads/2019/03/fc106b163c.jpg&f=1&nofb=1&ipt=52cdb48388a1dec13da5284b6a733008c9bdb0db6d2951f9a7c7c3c2df01e04f&ipo=images" group-title="Aاخبار",الشرق الاخبارية
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 
