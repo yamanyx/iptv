@@ -1,56 +1,48 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo1.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo2.m3u8
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo3.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo4.m3u8
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo5.m3u8
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo6.m3u8
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://almaghrebsport.com/wp-content/uploads/2022/10/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A.png",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://almaghrebsport.com/wp-content/uploads/2022/10/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo7.m3u8
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png", تعمل وقت المباريات 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991U1ST Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/79.0.3945.136 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.yariga.live/
-#EXTVLCOPT:http-player-type=webplayer
 https://1yak.site/upload/images/logo8.m3u8
