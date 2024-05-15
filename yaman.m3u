@@ -117,7 +117,7 @@ https://api.ready.mobi/api/v1/prism/proxy?prismid=2245444&testid=2508405-gm7t&ur
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://imgsrv.rotana.net/channels/1688402472.webp?w=65&h=65&fit=max"روتانا سينما, باقة روتانا
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_khlijia.jpg?v=6"روتانا خليجية, باقة روتانا
-https://rotananet.hibridcdn.net/rotana/khaleejiya_abr/token=p=54~e=1714378457~h=47903404d40040cc1a4a95a990afaacb/playlist.m3u8#url
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDMvMjAyNCAwMToxMToyMSB
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام, باقة روتانا
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_aflam.jpg?v=6"روتانا افلام 2, باقة روتانا
@@ -655,22 +655,31 @@ http://82.212.74.2:8000/live/hls/7311.m3u8?v=629304983&tokenekot=tkb0r4dsr1KXp1t
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Kuwait1.jpg?v=3" group-title="الكويت",الكويت 1
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Kuwait2.jpg?v=3" group-title="الكويت",الكويت 2
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/KuwaitS.jpg?v=3" group-title="الكويت",الكويت الرياضية 1
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/KuwaitPlus.jpg?v=3" group-title="الكويت",الكويت الرياضية 2
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Kuwaitithraa.jpg?v=3" group-title="الكويت",اثراء
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/KuwaitAlarabi.jpg?v=3" group-title="الكويت",العربي
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kuwaitdrama.jpg?v=3" group-title="الكويت",الكويت دراما
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kuwaitkids.jpg?v=3" group-title="الكويت",تلفزيون الكويت
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Al-Qurain.jpg?v=3" group-title="الكويت",القرين
+#EXTVLCOPT:http-user-agent=your agent here
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8
 
 
@@ -1071,21 +1080,7 @@ https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/356.m3u8
 
 
 
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 1 
-https://mejarserver.com/FAJER-1/video.m3u8?token=station_app
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 2 
-https://mejarserver.com/FAJER-2/video.m3u8?token=station_app
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 3 
-https://mejarserver.com/FAJER-3/video.m3u8?token=station_app
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر", الفجر 4
-https://mejarserver.com/FAJER-4/video.m3u8?token=station_app
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYDt3JeUkXPMer1I1SPdWbOPivX7rpD8FF4adrm6YVkkJCE_izgn8M87hz&s=10" group-title="الفجر",الفجر 5 
-https://mejarserver.com/FAJER-5/video.m3u8?token=station_app
-EXTINF:-1 tvg-id="" tvg-name="Fdjre" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbzC6ASE7Y6emlTSUAVFCEL3JIg13B4jMDwkba_Wxi3GihbZ2gZbuers&s=10" group-title="الفجر",الفجر الجزائرية
-#EXTVLCOPT:http-user-agent=DZAgexpl213
-https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
 
 
 
