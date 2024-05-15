@@ -493,6 +493,8 @@ https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5b/Chadatv.png" group-title="z|تونس",شذى 1
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6" group-title="z|تونس",هنيبعل
 #EXTVLCOPT:http-referrer=https://mexawy.online
