@@ -2,25 +2,36 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv9Q4ScJw_Y3bBd83Xi6Ewx0-mYzEv3406VDo-9zA3Q&s",مسلسلات و افلام  
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/movis.m3u
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nS2nBzPP7XiswGefyEf4BKAujprl-gYIcn_c6su8jmeQ=s900-c-k-c0x00ffffff-no-rj",قنوات تعمل وقت المباريات 
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/livesport.m3u
+
+ #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafWZW8H7QbadfZofPqSIZMvYd-vxc67-47U7c-sAxgA&s",جدول مباريات لايف
+#EXTVLCOPT:http-player-type=m3u
+EXTVLCOPT:http-user-agent=...
+https://raw.githubusercontent.com/yamanyx/iptv/main/xx.m3u
+
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5MSaQBQMIm4VvEjXJVUxlLic0mBUjfNAwsRPcZT7njp8p8B3DykXBWVv&s=10" group-title="Az.ملخص المباريات", ملخص المباريات
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5MSaQBQMIm4VvEjXJVUxlLic0mBUjfNAwsRPcZT7njp8p8B3DykXBWVv&s=10" group-title="",ملخص المباريات
 #EXTVLCOPT:http-player-type=webplayer
-
-
-
 #EXTVLCOPT:http-referrer=https://mobile.btolat.com
 #EXTVLCOPT:http-user-agent=..
 https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btolat.com/video
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://woww.cc/wp-content/uploads/2019/05/2708-6.jpg&f=1&nofb=1&ipt=e3a277a39d5e42db059d904bd9e732a9b3a67bce9b91329254e75c142691ab09&ipo=images" group-title=" سيرفرات قنوات",   القنوات العربية ويب
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://woww.cc/wp-content/uploads/2019/05/2708-6.jpg&f=1&nofb=1&ipt=e3a277a39d5e42db059d904bd9e732a9b3a67bce9b91329254e75c142691ab09&ipo=images" group-title="",قنوات عربية ويب
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/9.m3u
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://ar.clinicadvisor.com/images/3edfbcf39e134b9e178af1361aef3fe557a84af6.jpg&f=1&nofb=" group-title=" سيرفرات قنوات",   القنوات التركية
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://ar.clinicadvisor.com/images/3edfbcf39e134b9e178af1361aef3fe557a84af6.jpg&f=1&nofb=" group-title="",قنوات تركية
 #EXTVLCOPT:http-player-type=m3u
 https://raw.githubusercontent.com/yamanyx/iptv/main/tv.m3u
 
@@ -1356,7 +1367,6 @@ EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstati
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-user-agent=..
 https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://nainish-nexttube.vercel.app/playlist/PLPY3JhpY-wNZh8zfxtbjo-h80D7wmKFWX
-
 
 
 
