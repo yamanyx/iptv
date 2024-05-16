@@ -236,7 +236,7 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/14.m3u8
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7uvlLsuXXCXPigmzDQIU0vUN7I635QAbIDeCBRJlbw&s" group-title="Bقنوات رياضية",POST SPORT
-https://tv.qmedia.ps/hls/tv_HD/index.m3u8
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w1103486207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaDNraVwOzUVP8jCPLIrM1xWrFK3zIEe0WK_mQYixHQ&s" group-title="Bقنوات رياضية",DHOUK SPORT
 http://88.99.167.201:1935/duhok/sp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsU9s43kWOB6Gi9BRi3xnj-kbqhFQtDQ7T2UT0nqDcZg&s" group-title="Bقنوات رياضية",N SPORT
@@ -769,7 +769,7 @@ http://htvajyalint.mada.ps:8888/ajyalint/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/nabluslive3.jpg" group-title="فلسطين",نابلس مباشر
 http://streaming.zaytonatube.com:8080/NablusMix3/NablusMix3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/posttv.jpg" group-title="فلسطين",POST TV 
-https://tv.qmedia.ps/hls/post_HD/index.m3u8
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w1103486207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/shababfm.jpg" group-title="فلسطين",شباب
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/watar.jpg" group-title="فلسطين",وتر
