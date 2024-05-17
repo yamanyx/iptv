@@ -621,7 +621,7 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/mtv.jpg" group-title="لبنان",MTV
 #EXTVLCOPT:http-user-agent=your agent here
-https://mediaservices.pfs.gdn/v1/broadcast/mtv/primary/tracks-v4a1/mono.m3u8
+https://hms.pfs.gdn/v1/broadcast/mtv/primary/tracks-v6a1/mono.m3u8?token=bZHvdrxTHimC0VzHSG6wUw:TXTJ5E_MMokueORQQsRmAK7YWrgJ6ouvwdau3K-iUM3CxaIr_2aDqvkzm9cQXnzP-synwECo3YyI_69jY-bESaZUOb6PyvGTQjkxqW-BO1xLGoJ2A0PPWMYs8JMf5plgAUALJ-7fD27SKJ9jWkJy7JRGLkB-1s28MnD_468vfIbXEbyWlrrsVk-2QhLOjVCCqy4SbZMZiVu-42UoT8rIjQ
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljadeed_tv.jpg?v=6" group-title="لبنان",الجديد
 #EXTVLCOPT:http-user-agent=your agent here
