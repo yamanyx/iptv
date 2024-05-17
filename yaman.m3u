@@ -636,7 +636,7 @@ https://s1.ettehadlive.com/live/43/chunklist_w396149158.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="لبنان",LBC
 #EXTVLCOPT:http-user-agent=your agent here
-https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1714369883~h=16e878d36c49007754213b4ed91a6aaa/playlist.m3u8
+https://rotananet.hibridcdn.net/rotana/lbc_abr/token=p=47~e=1715949647~h=d1e044231916fb7d9b590a95b50d0dbd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/LBC_Live.jpg" group-title="لبنان",LBC
 #EXTVLCOPT:http-user-agent=your agent here
 http://208.115.214.148/live/DDB3FE3C4DA2B9C2C11F154E857553B5/3.m3u8
