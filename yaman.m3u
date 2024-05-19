@@ -106,31 +106,71 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN live",BeIN SPORTS 1 
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN live",BeIN SPORTS 2 
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN live",BeIN SPORTS 3 
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN live",BeIN SPORTS 4 
 http://85.237.89.6:9590/ar-s/B-S-pre-4-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_SCa0UqpV0Ciy2uDW4mUu84/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_Z8JO7XnRIOI9JCTgpLunNE/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_cvZyAIGHhoWs4LyACU1h5w/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_W9r0p79CwXANc8J6HawtXE/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5  FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_Vr_ljYQQT7r4ptcDg0JaZ8/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6 FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_f-PTQCpaVwoGSAT_ddgj4k/ts
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7 FHD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_TAorxRodTPikuy6X6REzlY/ts
+ 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_dvjpsHFgf3XZh0nUTi3UE4/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_S2qmNEPIeI2sSt17VuZhi0/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_bxu6aMsk6L8yI1q84P7P2g/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_XR8ovaenRqV23YSjXCa44A/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5  HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_TubUYNYwW5wFF4Skyphcq0/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6 HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_ZedqPgtsfaRudjcX4-1WHc/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7 HD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_ajRuBHJI4yP5mcvZ24mCrE/ts
+ 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_du6oCw_D_uQSyunT3RVo9g/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_f6w5KexzFsLM5q7CKQiM08/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_Z5yiNKVIYzoUS6cyL3CnaE/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_dlu6cL-MVbp5K5sWtYWY-8/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5  SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_UHhbuFi-Yk5XBbPtfmCwnU/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6 SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_fGfCGNAyNXq2_fLh-1jC-M/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7 SD
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_WfBL2XvueULZeCzFQDkMss/ts
  
 
 
@@ -141,23 +181,33 @@ http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_TAorxRodTPikuy6X6REzlY/ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS 1 
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_T0b5sUlUL6XdBW5uBKcZQ4/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS 2 
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_UXynvGZVSZo1CdyOyAxl7o/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS 3 
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_fTAAGxxpoNgSPEj_iMQyb8/ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS 4
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_epWrsuxYoGQflHCRFgf6TI/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS 5
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_bZNMYFxDBPI0Jof81xGzIo/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS extra 1 
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_UZ7bU539gWR0ij-VtQYlx0/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS extra 2
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_Z3rYes-sktlegaSEIRDpe8/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="" group-title="ssc SPORTS",ssc SPORTS extra 3 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
 
