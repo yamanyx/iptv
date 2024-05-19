@@ -209,12 +209,19 @@ http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_Z3rYes-sktlegaSEIRDpe8/ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="" group-title="AD SPORTS",AD SPORTS 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="" group-title="AD SPORTS",AD SPORTS 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="" group-title="AD SPORTS",AD SPORTS 3
+t=ZPYEFrgOz2x2kkMAxw2idA&e=1671897666
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="" group-title="AD SPORTS",AD SPORTS primur 1
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_U63fu0EVG1oYwdTnZiZJX0/ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="" group-title="AD SPORTS",AD SPORTS primur 2
+http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_bKd1-ot0Nyoz8HgtTMBCZE/ts
 
 
 
@@ -340,6 +347,10 @@ https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/592.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports1.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 1
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143970.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports2.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 2
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143971.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="mbc 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="c|  mbc",mbc 1
