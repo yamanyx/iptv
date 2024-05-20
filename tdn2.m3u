@@ -1,3 +1,32 @@
+
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<meta charset=UTF-8>
+<title>فرض اعادة توجيه </title>
+<meta name=viewport content="width=device-width, initial-scale=1,user-scalable=no">
+<style>@import url(https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css);html,body{height:100%;width:100%;margin:0;padding:0;background:#444;overflow:hidden}.container{color:#eee}@media(min-width:1300px){.container{max-width:1300px}}@media(min-width:1400px){.container{max-width:1400px}}@font-face{font-family:'digital-7';src:url('//www.elahmad.com/font/digital-7.ttf')}h1{font-family:'digital-7';font-size:20px}#cc{font-family:'digital-7';font-size:22px;color:yellow;margin:0;padding:0}</style>
+</style>
+</head>
+<body>
+<div class=container>
+<div class="col-sm-12 text-center">
+<h1 style="font-size:156px;margin:0 align=center">404</h1>
+<div style=font-size:36px>Page not found.</div>
+<div style=font-size:24px><br>
+<small>Please return to <a href=http://con2021.blogspot.com/2024/03/11.html>our homepage</a>.</small></div>
+<p>The page is deprecated, deleted or does not exist at all.</p>
+<div>Redirecting in <span align=center id=cc>1</span>Sec</div>
+</div>
+</div>
+<script>var contador=0;var fin_contador=10;function cuenta(){if(contador>=fin_contador){window.location.href="http://con2021.blogspot.com/2024/03/11.html"}else{document.getElementById("cc").innerHTML=""+fin_contador+" ";fin_contador=fin_contador-1}}function init(){cuenta();setInterval("cuenta()",1000)}window.onload=init;</script>
+</body>
+</html>
+  <p><a href="http://con2021.blogspot.com/2024/03/11.html" target="_blank">https://testdx3.blogspot.com/2023/04/hd3-live-4-footyy-live-tv.html</a>&nbsp;</p>
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" live="1" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS HD [VIP]",BEIN SPORTS NEWS
 http://echtirak.com:8080/tdn/tdn/59.m3u8
