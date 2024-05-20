@@ -691,10 +691,9 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/lana_syria.jpg?v=6" group-title="سوريا",LANA TV
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jawaltv.com/images/ar/syria_news.jpg" group-title="سوريا", الاخبارية السورية
 #EXTVLCOPT:http-player-type=webplayer
-#EXTVLCOPT:http-referrer=https://www.elahmad.com/
-https://www.elahmad.com/tv/mobiletv/glarb.php?id=samatv
+http://azrotv.com/m3u8/ok/?id=syrienews
 #EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8
@@ -711,7 +710,8 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/104.m3u8
 https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8?token=771838870
 
 #EXTINF:-1 tvg-id="" tvg-name="https://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg?v=6" tvg-logo="" group-title="سوريا",SYRIA DRAM
-https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/359
+#EXTVLCOPT:http-player-type=webplayer
+https://ok.ru/videoembed/7164076498550?autoplay=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1a2KvvifOssLb437vnE8JdwW1hz1FTMj60Jh1u4UnNkgIdw9UeT1zE9l&s=10" group-title="سوريا", drama 24
