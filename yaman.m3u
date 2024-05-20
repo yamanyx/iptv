@@ -686,8 +686,9 @@ https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/inde
 
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=345911604701107&f=1&nofb=1&ipt=d84aa85fafbe623e78908091dbbc6f75d3d12e1ee5e19fee2d62142fbd8d45ad&ipo=images" group-title="سوريا", المحلية السورية
+#EXTVLCOPT:http-player-type=webplayer
+https://ok.ru/videoembed/3594058866294?autoplay=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/lana_syria.jpg?v=6" group-title="سوريا",LANA TV
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/105.m3u8
@@ -698,7 +699,6 @@ http://azrotv.com/m3u8/ok/?id=syrienews
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syriatv.jpg?v=6" group-title="سوريا",SYRIA 
-#EXTVLCOPT:http-referrer=https://www.elahmad.com/
 #EXTVLCOPT:http-player-type=webplayer
 https://www.elahmad.com/tv/live/ok_ru.php?id=syriatv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg?v=6" group-title="سوريا",SYRIA 1
