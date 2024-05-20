@@ -585,26 +585,37 @@ https://djza.me:8443/Xv2s6xseDs/ju6CjMmMTp/11
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/2m_ma_tv.jpg?v=6" group-title="z|المغرب",2m_ma
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alaoula.jpg?v=6" group-title="z|المغرب",alaoula
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/laayoune.jpg?v=6" group-title="z|المغرب",laayoune
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almaghribia.jpg?v=6" group-title="z|المغرب",almaghribia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/arriyadia.jpg?v=6" group-title="z|المغرب",arriyadia
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/assadissa.jpg?v=6" group-title="z|المغرب",assadissa
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/attakafiya.jpg?v=6" group-title="z|المغرب",attakafiya
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tamazight.jpg?v=6" group-title="z|المغرب",tamazight
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/maptvnews.jpg?v=6" group-title="z|المغرب",maptvnews
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_maghreb.jpg?v=6" group-title="z|المغرب",medi1tv_maghreb
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/telemaroc.jpg?v=6" group-title="z|المغرب",telemaroc
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
 https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 
 
