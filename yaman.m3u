@@ -233,15 +233,16 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8?w
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_classic.jpg?v=6"روتانا كلاسيك, باقة روتانا
-https://rotananet.hibridcdn.net/rotana/classical_abr/token=p=53~e=1715948218~h=9f67aceeab85d2e6a0227097619df9fa/playlist.m3u8
+https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_drama.jpg?v=6"روتانا دراما, باقة روتانا
 https://rotananet.hibridcdn.net/rotana/drama_abr/token=p=49~e=1715948332~h=5cac01139dc34116f24e650e54a37efa/playlist.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_comedy.jpg?v=6"روتانا كوميدي, باقة روتانا
 https://rotananet.hibridcdn.net/rotana/comedy_abr/token=p=50~e=1715948236~h=f59119a6af65a0fc993824827d34e9e8/playlist.m3u8
-#EXTINF:-1 group-title="روتانا" tvg-logo="https://www./images/rotana_kids.jpg?v=6"روتانا  اطفال, باقة روتانا
-https://rotananet.hibridcdn.net/rotana/kids_abr/token=p=48~e=1714378134~h=b8a52cb8dacb10b6fb1b86460d309809/playlist.m3u8#url
+#EXTINF:-1 group-title="روتانا" tvg-logo="http://jawaltv.com/images/ar/rcp.jpg"روتانا  كليب, باقة روتانا
+https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 group-title="روتانا" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Rotana-musica.jpg"روتانا  طرب, باقة روتانا
+http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",سيرفر 2
 #EXTVLCOPT:http-user-agent=your agent here
