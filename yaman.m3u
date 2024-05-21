@@ -870,9 +870,9 @@ https://ok.ru/videoembed/7164076498550?autoplay=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg?v=6" group-title="سوريا", sma tv
 https://app.sama-tv.net/hls/samatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1a2KvvifOssLb437vnE8JdwW1hz1FTMj60Jh1u4UnNkgIdw9UeT1zE9l&s=10" group-title="سوريا", drama 24
-https://yamantvx.xyz/live/yaman/361
+https://yamantvx.xyz/live/yaman/361.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syriatv.jpg?v=6" group-title="سوريا",SYRIA 
-https://yamantvx.xyz/live/yaman/360
+https://yamantvx.xyz/live/yaman/360.m3u8
 
 
 
