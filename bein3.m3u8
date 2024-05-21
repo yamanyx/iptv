@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
-https://live-hls-web-aja.getaj.net/AJA/05.m3u8
+#EXTVLCOPT:http-user-agent=DZAgexpl213
+https://djza.me:8443/live/Xv2s6xseDs/ju6CjMmMTp/2.m3u8
+
