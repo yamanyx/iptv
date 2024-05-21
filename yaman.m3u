@@ -506,7 +506,15 @@ https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index
 #EXTINF:-1 tvg-id="" tvg-name="زي الوان" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-t-hnDCZ_RS38hwZjnTb1-PlDeM5i3LxyoysVzZxa02c=s900-c-k-c0x00ffffff-no-rj" group-title="*|افلام  ",زي الوان
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="mbc 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="*|افلام  ",mbc 2
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
+EXTINF:-1 tvg-id="" tvg-name="mbc 5" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="*|افلام  ",mbc MAX
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mbc action" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg?v=6" group-title="*|افلام  ",mbc action
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/27.m3u8
 
 
 
