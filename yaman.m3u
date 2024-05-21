@@ -213,72 +213,6 @@
 
 
 
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/atfalwamwaheb.jpg?v=6",اطفال و مواهب
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg?v=6",روتانا اطفال
-https://rotananet.hibridcdn.net/rotana/kids_abr/token=p=48~e=1716360676~h=04bc5afe81cbd1ecef8ee1cbe89930fc/playlist.m3u8#url
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",mbc 3
-https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg?v=6",سبيستون
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/trt_cocuk.jpg?v=6",turk kids
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://yt3.googleusercontent.com/mhMyayoVVPyH4NfeDgHMd4sMIfgo_ynO25qZZTlhYFfR0202JKndiyBiIbWoMSQGlDfuuYTQSw=s900-c-k-c0x00ffffff-no-rj",تيلي تابيز
-https://4dab4c773c874a00912d072efdafc136.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_WildBrainPresentsTeletubbies/playlist.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://s1.dmcdn.net/v/OY5vE1Xdo9HjWpnQt/x1080",مستر بن
-http://homeip.biz/bean247/index.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.shutterstock.com/image-photo/laughing-small-kids-on-white-600w-76836880.jpg",kids
-http://homeip.biz/hannah247/index.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.shutterstock.com/image-photo/laughing-small-kids-on-white-600w-76836880.jpg",kids
-http://homeip.biz/rhymes247_1/index.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.shutterstock.com/image-photo/laughing-small-kids-on-white-600w-76836880.jpg",kids
-http://homeip.biz/kids247/index.m3u8
-
-
-
-
-
-
-
-
 
 
 
@@ -1482,6 +1416,72 @@ https://yamantvx.xyz/live/yaman/356.m3u8
 
 
 
+
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/atfalwamwaheb.jpg?v=6",اطفال و مواهب
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg?v=6",روتانا اطفال
+https://rotananet.hibridcdn.net/rotana/kids_abr/token=p=48~e=1716360676~h=04bc5afe81cbd1ecef8ee1cbe89930fc/playlist.m3u8#url
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",mbc 3
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg?v=6",سبيستون
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/trt_cocuk.jpg?v=6",turk kids
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://yt3.googleusercontent.com/mhMyayoVVPyH4NfeDgHMd4sMIfgo_ynO25qZZTlhYFfR0202JKndiyBiIbWoMSQGlDfuuYTQSw=s900-c-k-c0x00ffffff-no-rj",تيلي تابيز
+https://4dab4c773c874a00912d072efdafc136.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_WildBrainPresentsTeletubbies/playlist.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://s1.dmcdn.net/v/OY5vE1Xdo9HjWpnQt/x1080",مستر بن
+http://homeip.biz/bean247/index.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.shutterstock.com/image-photo/laughing-small-kids-on-white-600w-76836880.jpg",kids
+http://homeip.biz/hannah247/index.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.shutterstock.com/image-photo/laughing-small-kids-on-white-600w-76836880.jpg",kids
+http://homeip.biz/rhymes247_1/index.m3u8
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="قنوات الاطفال" tvg-logo="https://www.shutterstock.com/image-photo/laughing-small-kids-on-white-600w-76836880.jpg",kids
+http://homeip.biz/kids247/index.m3u8
 
 
 
