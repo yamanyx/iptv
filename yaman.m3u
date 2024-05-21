@@ -460,6 +460,58 @@ https://edge66.magictvbox.com/liveApple/rotana_clip/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="روتانا" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Rotana-musica.jpg"روتانا  طرب, باقة روتانا
 http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="زي افلام" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEyivDqRsE-IHdzD-haeXtCcpgbn4K5WtvdNBAlstlMA&s" group-title="*|افلام  ",زي افلام
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="روتانا افلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="*|افلام  ",روتانا افلام
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+
+
+#EXTINF:-1 tvg-id="" tvg-name="روتانا سينما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="*|افلام  ",روتانا سينما
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="دبي افلام" tvg-logo="https://media0043.elcinema.com/tvguide/1173_1.png" group-title="*|افلام  ",دبي افلام
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="اجيال" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n5XMiqcR-MKWwVl5Qkf7hVGC4IPcvcySXnP4I5GkWkQ_k=s900-c-k-c0x00ffffff-no-rj" group-title="*|افلام  ",اجيال
+http://htvajyalint.mada.ps:8888/ajyalint/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام لايف" tvg-logo="https://trend.nl7za.com/wp-content/uploads/2023/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%86%D8%A7%D9%8A%D9%84-%D9%84%D8%A7%D9%8A%D9%81-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-2024-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA-%D9%88%D8%B9%D8%B1%D8%A8%D8%B3%D8%A7%D8%AA-Nile-Life.jpg" group-title="*|افلام  ",افلام لايف
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام اكشن" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTzBMhynqKw1N-uquFXwFFLmr-AfHozvTmBA1tuu-vzw&s" group-title="*|افلام  ",افلام اكشن
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام بلس" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeOdc_cwGC4mrAL6FToU3dijYle7Ok4tW7tCYwJF6IA&s" group-title="*|افلام  ",افلام بلس
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="افلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/280px-Kanal_7_2002-%3F_logosu.webp.png" group-title="*|افلام  ",افلام 
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="زي الوان" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l-t-hnDCZ_RS38hwZjnTb1-PlDeM5i3LxyoysVzZxa02c=s900-c-k-c0x00ffffff-no-rj" group-title="*|افلام  ",زي الوان
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",سيرفر 2
 #EXTVLCOPT:http-user-agent=your agent here
 https://yamantvx.xyz/live/yaman/306.m3u8
