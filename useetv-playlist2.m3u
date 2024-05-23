@@ -4,6 +4,8 @@
 https://raw.githubusercontent.com/yamanyx/iptv/main/%D8%AC%D9%85%D9%8A%D9%84%20%D9%88%20%D9%87%D9%86%D8%A7%D8%A1.m3u
 
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="mbc 1" tvg-logo="https://pbs.twimg.com/media/GOPDP0wWYAAqGEX?format=jpg&name=large" group-title="mbc",النصر X الطائي
+https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="mbc",mbc 1
 https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="mbc",mbc 2
