@@ -223,9 +223,9 @@
 https://raw.githubusercontent.com/yamanyx/iptv/main/movis.m3u
 
 
-#EXTINF:-1 group-title="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nS2nBzPP7XiswGefyEf4BKAujprl-gYIcn_c6su8jmeQ=s900-c-k-c0x00ffffff-no-rj",قنوات تعمل وقت المباريات 
+#EXTINF:-1 group-title="" tvg-logo="https://image.roku.com/developer_channels/prod/4f24494e8cf821c058e15f1c09e118ae911c9a98e0401ad51183fbd4c4156f56.png" , IPTV PRO
 #EXTVLCOPT:http-player-type=m3u
-https://raw.githubusercontent.com/yamanyx/iptv/main/livesport.m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/tdn1.m3u
 
  #EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQafWZW8H7QbadfZofPqSIZMvYd-vxc67-47U7c-sAxgA&s",جدول مباريات لايف
 #EXTVLCOPT:http-player-type=m3u
