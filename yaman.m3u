@@ -382,6 +382,12 @@ http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_ajRuBHJI4yP5mcvZ24mCrE/ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 SD
+#EXTVLCOPT:http-user-agent=████████████████████████████████████████████████████████████████████████████████
+
+███████████████████████████████████
+#EXTVLCOPT:http-referrer=████████████████████████████████████████████████████████████████████████████████
+
+███████████████████████████████████
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_du6oCw_D_uQSyunT3RVo9g/ts
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 SD
 http://185.16.38.68/play/WjZwTNnp6GVfyMNqrm_p_f6w5KexzFsLM5q7CKQiM08/ts
