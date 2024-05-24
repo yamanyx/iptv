@@ -245,7 +245,7 @@ https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btola
 #EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://woww.cc/wp-content/uploads/2019/05/2708-6.jpg&f=1&nofb=1&ipt=e3a277a39d5e42db059d904bd9e732a9b3a67bce9b91329254e75c142691ab09&ipo=images" group-title="",قنوات عربية ويب
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=http://www.elahmad.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
 http://con2021.blogspot.com/2024/03/3.html
 
 #EXTM3U
