@@ -693,7 +693,7 @@ https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567
 
 
 #EXTINF:-1 tvg-id="" tvg-name="باب الحارة" tvg-logo="https://i.ytimg.com/vi/lBy4yXj0Ps0/maxresdefault.jpg" group-title="d |  مسلسلات",باب الحارة
-#EXTVLCOPT:http-user-agent=..
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
 https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 
 
