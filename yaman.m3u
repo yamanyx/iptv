@@ -645,16 +645,16 @@ http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143971.m3u8?md5=c87f2c608
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="mbc 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc1.jpg?v=6" group-title="c|  mbc",mbc 1
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc2.jpg?v=6" group-title="c|  mbc",mbc 2
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 3" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6" group-title="c|  mbc",mbc 3
 https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 4" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc4.jpg?v=6" group-title="c|  mbc",mbc 4
-https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 4" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc5.jpg?v=6" group-title="c|  mbc",mbc 5
-https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc 5" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg?v=6" group-title="c|  mbc",mbc MAX
 #EXTVLCOPT:http-referrer=https://mexawy.online
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
@@ -664,14 +664,15 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc DRAMA" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg?v=6" group-title="c|  mbc",mbc DRAMA
 https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc DRAMA+" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="c|  mbc",mbc DRAMA+
-https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc MSR 1" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg?v=6" group-title="c|  mbc",mbc MSR 1
-https://masr-usa-ak.akamaized.net/out/v1/5fcaf05b5cd64b3cb4a969e0470080c8/index.m3u8
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc MSR 2" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg?v=6" group-title="c|  mbc",mbc MSR 2
-https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mbc IRAQ" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg?v=6" group-title="c|  mbc",mbc IRAQ
-https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mbc IRAQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8mEoARAmIjTE6YqIMAXUgK0oH7JtdkPWBfg&usqp=CAU" group-title="c|  mbc",mbc bollywood
+https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 
 
@@ -681,7 +682,7 @@ https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/i
 
 
 #EXTINF:-1 tvg-id="" tvg-name="باب الحارة" tvg-logo="https://i.ytimg.com/vi/lBy4yXj0Ps0/maxresdefault.jpg" group-title="d |  مسلسلات",باب الحارة
-https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index_4.m3u8
+https://shls-live-ak.akamaized.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="الهيبة" tvg-logo="https://www.lbcgroup.tv/newsimages/News-P-357576-636518676866903611.jpg" group-title="d |  مسلسلات",الهيبة
@@ -728,13 +729,13 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist
 
 
 #EXTINF:-1 tvg-id="" tvg-name="مسلسلات لايف" tvg-logo="https://c.files.bbci.co.uk/5857/production/_111951622_tg.jpg" group-title="d |  مسلسلات",رامز جلال
-https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index_3.m3u8
+https://shls-live-ak.akamaized.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مسلسلات كوميديا" tvg-logo="https://backend.roya-tv.com/imagechanger/Size02Q40R169/images/articles/eXLsRVBvN3vuAoOUQnODVHYQa4g15u3AuK0Fw5eK.jpeg" group-title="d |  مسلسلات",مسلسلات كوميدية
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8?st=W4EGz1fS3n0bYrdymrvADQ&e=1702878683
 #EXTINF:-1 tvg-id="" tvg-name="واي في" tvg-logo="https://cdn.elwatannews.com/watan/840x473/19327654021582632735.jpg" group-title="d |  مسلسلات",واي في
 https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://i.ytimg.com/vi/6Ecz53eDUX4/mqdefault.jpg" group-title="d |  مسلسلات",مرايا
-https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index_3.m3u8
+https://shls-live-ak.akamaized.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="مرايا" tvg-logo="https://i.ytimg.com/vi/6Ecz53eDUX4/mqdefault.jpg" group-title="d |  مسلسلات",مرايا
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist.m3u8
