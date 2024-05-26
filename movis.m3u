@@ -115,3 +115,11 @@ http://youtube-tv-series-movies.blogspot.com/2024/05/blog-post_31.html
 #EXTVLCOPT:http-referrer=http://www.elahmad.com/
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
 http://youtube-tv-series-movies.blogspot.com/2024/05/blog-post_24.html
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://yemeneco.org/wp-content/uploads/2024/04/%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D9%8A%D9%85%D9%86.jpg", قنوات اليمن و سلطنة عمان
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+http://youtube-tv-series-movies.blogspot.com/2024/05/blog-post_79.html
