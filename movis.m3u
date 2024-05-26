@@ -123,3 +123,11 @@ http://youtube-tv-series-movies.blogspot.com/2024/05/blog-post_24.html
 #EXTVLCOPT:http-referrer=http://www.elahmad.com/
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
 http://youtube-tv-series-movies.blogspot.com/2024/05/blog-post_79.html
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6", SSC SPORT
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+http://youtube-tv-series-movies.blogspot.com/2024/05/ssc-spprt.html
