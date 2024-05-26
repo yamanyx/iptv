@@ -1,3 +1,17 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv9Q4ScJw_Y3bBd83Xi6Ewx0-mYzEv3406VDo-9zA3Q&s",ماي سيما اخر الحلقات
+#EXTVLCOPT:http-player-type=webplayer
+EXTVLCOPT:http-user-agent=..
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.albayan.ae/polopoly_fs/1.3018202.1501938688!/image/image.JPG",قنوات الرياضة
 #EXTVLCOPT:http-player-type=webplayer
