@@ -1,5 +1,19 @@
 #EXTM3U
- #EXTINF:-1 group-title="جدول مباريات live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcHY1Lm1vYmFyeWF0X2xpdmVfaWNvbl8xNjM5MjU1OTM2XzA5MA/icon.png?w=140&fakeurl=1", سيرفرات مشاهدة
+ #EXTINF:-1 group-title="جدول مباريات live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcHY1Lm1vYmFyeWF0X2xpdmVfaWNvbl8xNjM5MjU1OTM2XzA5MA/icon.png?w=140&fakeurl=1", live 1
 EXTVLCOPT:http-user-agent=...
 #EXTVLCOPT:http-player-type=webplayer
 https://yamantv2024.blogspot.com/2024/06/blog-post_1.html
+
+
+
+#EXTINF:-1 group-title="جدول مباريات live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcHY1Lm1vYmFyeWF0X2xpdmVfaWNvbl8xNjM5MjU1OTM2XzA5MA/icon.png?w=140&fakeurl=1", live 2
+EXTVLCOPT:http-user-agent=...
+#EXTVLCOPT:http-player-type=webplayer
+https://yamantv2024.blogspot.com/2024/06/2.html
+
+
+
+#EXTINF:-1 group-title="جدول مباريات live" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmFwcHY1Lm1vYmFyeWF0X2xpdmVfaWNvbl8xNjM5MjU1OTM2XzA5MA/icon.png?w=140&fakeurl=1", live 3
+EXTVLCOPT:http-user-agent=...
+#EXTVLCOPT:http-player-type=webplayer
+https://yamantv2024.blogspot.com/2024/06/3.html
