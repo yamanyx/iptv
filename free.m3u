@@ -1,21 +1,452 @@
-#EXT-X-VERSION:3
+#EXTM3U
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=9382&extension=m3u8
 
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=508159&extension=m3u8
 
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174555&extension=m3u8&play_token=646976
 
-###http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=14414&extension=m3u8&play_token=141856
 
-##http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=m3u8&stream=594508
 
-##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=672398&extension=m3u8&play_token=xdbt7BgLik1348102
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORT",BeIN SPORTS 1 SD
+http://live.lynxiptv.xyz/live/redouane66/123456/216151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORT",BeIN SPORTS 2 SD
+http://live.lynxiptv.xyz/live/redouane66/123456/216152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORT",BeIN SPORTS 3 SD
+http://live.lynxiptv.xyz/live/redouane66/123456/216153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORT",BeIN SPORTS 4 SD
+http://live.lynxiptv.xyz/live/redouane66/123456/216154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORT",BeIN SPORTS 5  SD
+http://live.lynxiptv.xyz/live/redouane66/123456/216155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORT",BeIN SPORTS 6 SD
+http://live.lynxiptv.xyz/live/redouane66/123456/216156.m3u8
 
-##http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:eb:c5&stream=141856&extension=m3u8&play_token
 
-##115809  646976
 
-##http://clientsportals.com:2095/play/live.php?mac=00:1A:79:AE:8E:4D&stream=94482&extension=m3u8&play_token=msUKooUfNl
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/716.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/717.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/718.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/5144.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5  FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/5145.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6 FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/5146.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7 FHD
+http://185.71.66.45:88/live/221781184158716/221781184158716/5147.ts
+ 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/5195.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/5196.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/517.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1603.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5  HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1604.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6 HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1605.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7 HD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1606.ts
+ 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS",BeIN SPORTS 1 SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1072.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD2.png" group-title="BEIN SPORTS",BeIN SPORTS 2 SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1073.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD3.png" group-title="BEIN SPORTS",BeIN SPORTS 3 SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1074.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD4.png" group-title="BEIN SPORTS",BeIN SPORTS 4 SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/1071.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD5.png" group-title="BEIN SPORTS",BeIN SPORTS 5  SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/77.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD6.png" group-title="BEIN SPORTS",BeIN SPORTS 6 SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD7.png" group-title="BEIN SPORTS",BeIN SPORTS 7 SD
+http://185.71.66.45:88/live/221781184158716/221781184158716/79.ts
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS 1 
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221546.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS 2 
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221547.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS 3 
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221548.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS 4
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221549.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS 5
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221550.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS extra 1 
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221551.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS extra 2
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221552.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ssc_sports.jpg?v=6" group-title="ssc SPORTS",SSC SPORTS extra 3 
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221553.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abu_dhabi_sports_1.jpg?v=6" group-title="AD SPORTS",AD SPORTS 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abu_dhabi_sports_2.jpg?v=6" group-title="AD SPORTS",AD SPORTS 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abu_dhabi_sports_1.jpg?v=6" group-title="AD SPORTS",AD SPORTS primur 1
+http://176.57.50.16:2052/live/448541210370/2saS1KQiWT/188753.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abu_dhabi_sports_2.jpg?v=6" group-title="AD SPORTS",AD SPORTS primur 2
+http://176.57.50.16:2052/live/448541210370/2saS1KQiWT/188754.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/art_aflam_1.jpg?v=6" group-title="ART",ART AFLM 1
+http://live.lynxiptv.xyz/redouane66/123456/135350
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/art_aflam_2.jpg?v=6" group-title="ART",ART AFLAM 2
+http://live.lynxiptv.xyz/live/redouane66/123456/135351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/art_hekayat.jpg?v=6" group-title="ART",ART HKAYAT 1
+http://live.lynxiptv.xyz/live/redouane66/123456/135352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/art_hekayat2.jpg?v=6" group-title="ART",ART HKAYAT 2
+http://live.lynxiptv.xyz/live/redouane66/123456/135353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 ARAB" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/art_cinema.jpg?v=6" group-title="ART",ART CINMA
+http://live.lynxiptv.xyz/live/redouane66/123456/135354.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NetflixAction" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netflix.mediaclient.jpg" group-title="NetFlix",NetFlixAction
+http://live.lynxiptv.xyz/live/redouane66/123456/62547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NetflixAction" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netflix.mediaclient.jpg" group-title="NetFlix",NetFlixAction
+http://live.lynxiptv.xyz/live/redouane66/123456/62548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Asia" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netflix.mediaclient.jpg" group-title="NetFlix",NetFlix BOLLYWOOD
+http://live.lynxiptv.xyz/live/redouane66/123456/62549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NetflixAction" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netflix.mediaclient.jpg" group-title="NetFlix",NetFlix CLASIC 
+http://live.lynxiptv.xyz/live/redouane66/123456/62550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NetflixAction" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netflix.mediaclient.jpg" group-title="NetFlix",NetFlix COEDY
+http://live.lynxiptv.xyz/live/redouane66/123456/62551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NetflixAction" tvg-logo="https://cdn-www.bluestacks.com/bs-images/com.netflix.mediaclient.jpg" group-title="NetFlix",NetFlix DRAMA
+http://live.lynxiptv.xyz/live/redouane66/123456/62552.m3u8
+
+
+
+
+EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinpremiere.png" group-title="beIN Entertainment",beIN Movies 1ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67412
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinaction.png" group-title="beIN Entertainment",beIN Movies 2ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67413
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama.png" group-title="beIN Entertainment",beIN Movies 3ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67414
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinfamily.png" group-title="beIN Entertainment",beIN Movies 4ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67415
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries1.png" group-title="beIN Entertainment",beIN Series 1ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67417
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beinseries2.png" group-title="beIN Entertainment",beIN Series 2ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67418
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1ᴴᴰ" tvg-logo="https://besttvps.com/app/tv/news/panel/beindrama1.png" group-title="beIN Entertainment",beIN Drama 1ᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67416
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1ᴴᴰ" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Star-TV-768x768.png" group-title="beIN Entertainment",beIN STARᴴᴰ
+http://live.lynxiptv.xyz/redouane66/123456/67412
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="sahiad comdy 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad  turk 1
+http://live.lynxiptv.xyz/redouane66/123456/154164
+#EXTINF:-1 tvg-id="sahiad comdy 2" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad  turk 2
+http://live.lynxiptv.xyz/redouane66/123456/154165
+#EXTINF:-1 tvg-id="sahiad comdy 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ADVENTUT 1
+http://live.lynxiptv.xyz/redouane66/123456/154166
+#EXTINF:-1 tvg-id="sahiad comdy 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ADVENTUT 2 
+http://live.lynxiptv.xyz/redouane66/123456/154167
+#EXTINF:-1 tvg-id="sahiad comdy 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ADVENTUT 3
+http://live.lynxiptv.xyz/redouane66/123456/154168
+#EXTINF:-1 tvg-id="sahiad comdy 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ADVENTUT 4
+http://live.lynxiptv.xyz/redouane66/123456/154169
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad AFLAM 1
+http://live.lynxiptv.xyz/redouane66/123456/154158
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad AFLAM 2
+http://live.lynxiptv.xyz/redouane66/123456/154159
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad AFLAM 3
+http://live.lynxiptv.xyz/redouane66/123456/154160
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad AFLAM 4
+http://live.lynxiptv.xyz/redouane66/123456/154161
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad AFLAM 5
+http://live.lynxiptv.xyz/redouane66/123456/15412
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad AFLAM 6
+http://live.lynxiptv.xyz/redouane66/123456/154163
+
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس", EXTRA  1
+http://live.lynxiptv.xyz/redouane66/123456/154195
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  2
+http://live.lynxiptv.xyz/redouane66/123456/154196
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  3
+http://live.lynxiptv.xyz/redouane66/123456/154197
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  4
+http://live.lynxiptv.xyz/redouane66/123456/154198
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  5
+http://live.lynxiptv.xyz/redouane66/123456/154199
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  6
+http://live.lynxiptv.xyz/redouane66/123456/154200
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  6
+http://live.lynxiptv.xyz/redouane66/123456/154201
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  7
+http://live.lynxiptv.xyz/redouane66/123456/154202
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  8
+http://live.lynxiptv.xyz/redouane66/123456/154203
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", EXTRA  9
+http://live.lynxiptv.xyz/redouane66/123456/154204
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA 1
+http://live.lynxiptv.xyz/redouane66/123456/154205
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  2
+http://live.lynxiptv.xyz/redouane66/123456/154206
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  3
+http://live.lynxiptv.xyz/redouane66/123456/154207
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  4
+http://live.lynxiptv.xyz/redouane66/123456/154208
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  5
+http://live.lynxiptv.xyz/redouane66/123456/154209
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  6
+http://live.lynxiptv.xyz/redouane66/123456/154210
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  7
+http://live.lynxiptv.xyz/redouane66/123456/154211
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  8
+http://live.lynxiptv.xyz/redouane66/123456/154212
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  9
+http://live.lynxiptv.xyz/redouane66/123456/154213
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", CINMA  10
+http://live.lynxiptv.xyz/redouane66/123456/154214
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  1
+http://live.lynxiptv.xyz/redouane66/123456/154215
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  2
+http://live.lynxiptv.xyz/redouane66/123456/154216
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  3
+http://live.lynxiptv.xyz/redouane66/123456/154217
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  4
+http://live.lynxiptv.xyz/redouane66/123456/154218
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  5
+http://live.lynxiptv.xyz/redouane66/123456/154219
+ 
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  6
+http://live.lynxiptv.xyz/redouane66/123456/154220
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",",",",",", AFLAM  7
+http://live.lynxiptv.xyz/redouane66/123456/154221
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",",",",", AFLAM  8
+http://live.lynxiptv.xyz/redouane66/123456/154222
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",",",", AFLAM  9
+http://live.lynxiptv.xyz/redouane66/123456/154223
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",",", AFLAM 10
+http://live.lynxiptv.xyz/redouane66/123456/154224
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",", AFLAM  11
+http://live.lynxiptv.xyz/redouane66/123456/154225
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",", AFLAM  12
+http://live.lynxiptv.xyz/redouane66/123456/154226
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", AFLAM  13
+http://live.lynxiptv.xyz/redouane66/123456/154227
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",",",", AFLAM  14
+http://live.lynxiptv.xyz/redouane66/123456/154228
+
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",",", MSR  1
+http://live.lynxiptv.xyz/redouane66/123456/154229
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",",", MSR  2
+http://live.lynxiptv.xyz/redouane66/123456/154230
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"",", MSR  3
+http://live.lynxiptv.xyz/redouane66/123456/154231
+
+#EXTINF:-1 tvg-id="sahiad drama 1" tvg-logo="https://shoofmax-static.b-cdn.net/v2/img/general/sm-deep.png" group-title="شوف ماكس"", MSR  4
+http://live.lynxiptv.xyz/redouane66/123456/154232
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="sahiad horoor 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ACTION 1
+http://live.lynxiptv.xyz/redouane66/123456/154155
+#EXTINF:-1 tvg-id="sahiad horoor 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ACTION 2
+http://live.lynxiptv.xyz/redouane66/123456/154156
+#EXTINF:-1 tvg-id="sahiad horoor 3" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad ACTION 3
+http://live.lynxiptv.xyz/redouane66/123456/154157
+
+
+#EXTINF:-1 tvg-id="sahiad horoor 4" tvg-logo="https://fennec-fox.net/wp-content/uploads/2020/07/New-Shahid_logo.png.webp" group-title="shahed|شاهد",sahiad MSR
+http://live.lynxiptv.xyz/redouane66/123456/154154
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/DubaiSport-Live.jpg" group-title="Bقنوات رياضية",دبي 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/DubaiSport-Live.jpg" group-title="Bقنوات رياضية",دبي 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/DubaiSport-Live.jpg" group-title="Bقنوات رياضية",دبي 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/DubaiSport-Live.jpg" group-title="Bقنوات رياضية",دبي 4
+https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports.jpg" group-title="Bقنوات رياضية",ابو ظبي 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports.jpg" group-title="Bقنوات رياضية",ابو ظبي 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports2.jpg" group-title="Bقنوات رياضية",ابو ظبي 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports2.jpg" group-title="Bقنوات رياضية",ابو ظبي 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/SharjahSportLive.jpg" group-title="Bقنوات رياضية",الشارقة الرياضية
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="" group-title="Bقنوات رياضية",UEFTV
+http://85.237.89.6:9590/ku/Live-Zaxo-Sport/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/oman-s.jpg" group-title="Bقنوات رياضية",عمان الرياضية
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kass1.jpg" group-title="Bقنوات رياضية",الكاس 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kass2.jpg" group-title="Bقنوات رياضية",الكاس 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kass3.jpg" group-title="Bقنوات رياضية",الكاس 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/kass4.jpg" group-title="Bقنوات رياضية",الكاس 4
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xa/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/arriyadia.jpg?v=6" group-title="Bقنوات رياضية",المغربية 3
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahrain_sport.jpg?v=6" group-title="Bقنوات رياضية",بحرين الرياضية 1
+http://185.105.4.106:1935/live/ngrp:sportsone_all/playlist.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahrain_sport_2.jpg?v=6" group-title="Bقنوات رياضية",بحرين الرياضية 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports1.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 1
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports2.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 2
+#EXTVLCOPT:http-referrer=https://mexawy.online
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7uvlLsuXXCXPigmzDQIU0vUN7I635QAbIDeCBRJlbw&s" group-title="Bقنوات رياضية",POST SPORT
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w1103486207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaDNraVwOzUVP8jCPLIrM1xWrFK3zIEe0WK_mQYixHQ&s" group-title="Bقنوات رياضية",DHOUK SPORT
+http://88.99.167.201:1935/duhok/sp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsU9s43kWOB6Gi9BRi3xnj-kbqhFQtDQ7T2UT0nqDcZg&s" group-title="Bقنوات رياضية",N SPORT
+http://stream.nubar.tv:1935/private/NUBARSport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports.jpg" group-title="Bقنوات رياضية",ابو ظبي بريم 1
+https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/AbuDhabiSports2.jpg" group-title="Bقنوات رياضية",ابو ظبي بريم 2
+https://airmaxtv.online/airmaxpro85we/airmaxpro78ew/592.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports1.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 1
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143970.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/on_time_sports2.jpg?v=6" group-title="Bقنوات رياضية",ON SPORT 2
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143971.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+
