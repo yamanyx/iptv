@@ -4,6 +4,336 @@
 
 
 
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/max.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/web.lcd.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/fjr.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+
+
+
+
+
+
+
+#EXTM3U
+<?php
+
+
+
+
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/vip.php";
+}
+
+
+
+
+
+
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/bein.php";
+}
+
+
+
+
+
+
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include  "country/free.php";
+}
+
+// add here more files from country folder
+
+
+
+?>
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/2024.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/movies.php";
+}
+
+// add here more files from country folder
+
+?>
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/arabicweb.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/footbollive.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+
+
+
+#EXTM3U
+<?php
+if (isset($httpcanary) && $httpcanary === "i" && isset($deviceStatus) && $deviceStatus !== "disabled") {
+include "country/ssc.php";
+}
+
+// add here more files from country folder
+
+?>
+
+
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
+servers=["https://example.com/file/video/playlist.m3u8|referer=https://example.com/|origin=https://exampple.com|user-agent=httpOK","https://5penj.site/upload/images/logo0.zip|referer=https://example.com/file/video2.ts/|origin=https://dexample.live","https://www.youtube.com/embed/bNyUyrR0PHo|player-type=webplayer"]
+
+
+
+#EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
+#EXTVLCOPT:http-player-type=browser
+https://example.com/file/video.html
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5MSaQBQMIm4VvEjXJVUxlLic0mBUjfNAwsRPcZT7njp8p8B3DykXBWVv&s=10" group-title="sport",ملخص المباريات
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://mobile.btolat.com
+#EXTVLCOPT:http-user-agent=..
+https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://mobile.btolat.com/video
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="vip" tvg-name="BeIN SPORTS 1 ARAB" live="3" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https://ar.clinicadvisor.com/images/3edfbcf39e134b9e178af1361aef3fe557a84af6.jpg&f=1&nofb=" group-title="قنوات تركيا",قنوات تركية
+#EXTVLCOPT:http-player-type=m3u
+https://raw.githubusercontent.com/yamanyx/iptv/main/tv.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="https://ar.ra2ya.com/wp-content/uploads/2023/02/1-4.jpg",قنوات اسلامية
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/quraan.php
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/iptv.jpg?v=6",قنوات مسلسلات 24
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/mslslat.php
+
+
+
+#EXTINF:-1 group-title="sport" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sport_live.jpg?v=6",قنوات الرياضة العربية
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/spor.php
+
+
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/sy.png?v=6",قنوات سوريا  
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/syria.php
+
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbclive.jpg?v=6",mbc
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/mbc.php
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/news_tv.jpg?v=6",قنوات ا لاخبار
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/news.php
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/iq.png?v=6",قنوات العراق
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/iraq.php
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/jo.png?v=6",قنوات الاردن
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/jordn.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/eg.png?v=6",قنوات مصر
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/msr.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/lb.png?v=6",قنوات لبنان
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/lbnan.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/ps.png?v=6",قنوات فلسطين
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/flsten.php
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/kw.png?v=6",قنوات الكويت
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/koyt.php
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية"  tvg-logo="https://yemeneco.org/wp-content/uploads/2024/04/%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%A7%D9%84%D9%8A%D9%85%D9%86.jpg", قنوات اليمن و سلطنة عمان
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/ymn.php
+
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية"  tvg-logo="https://akhbaralyom.net/userimages/2000/2100/2453/__.jpg",قنوات الخليجية
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/klyj.php
+
+
+
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="https://vid.alarabiya.net/images/2014/02/14/afff2eb6-acc4-490a-b044-9afb18fe5cb1/afff2eb6-acc4-490a-b044-9afb18fe5cb1_16x9_1200x676.jpg", قنوات ليبيا و المغرب
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/lybya.php
+
+
+
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/dz.png?v=6",قنوات الجزائر
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/dz.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/ma.png?v=6",قنوات المغرب
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/moro.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/tn.png?v=6",قنوات تونس
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/tuns.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/images/flagtv/ae.png?v=6",قنوات الامارات
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/une.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_tv.jpg?v=6",قنوات روتانا
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/rotana.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kids_tv.jpg?v=6",قنوات الاطفال
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/kids.php
+
+
+#EXTINF:-1 group-title="باقة الفنوات العربية" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNdsKH1VhzPgc8H5_MFzSwE5QhMk_GaFQv5jWuHYhknZzk-rNfCsOyGmZYyrKcUyOFAE&usqp=CAU",قنوات افلام
+#EXTVLCOPT:http-player-type=m3u
+https://yamanx7.xyz/legend/country/moves.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
