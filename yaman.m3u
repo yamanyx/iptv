@@ -157,13 +157,13 @@ include "country/ssc.php";
 
 
 #EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
-servers=["https://example.com/file/video/playlist.m3u8|referer=https://example.com/|origin=https://exampple.com|user-agent=httpOK","https://5penj.site/upload/images/logo0.zip|referer=https://example.com/file/video2.ts/|origin=https://dexample.live","https://www.youtube.com/embed/bNyUyrR0PHo|player-type=webplayer"]
+servers=["https://example.com/file/video/playlist.m3u8|referer=https://example.com/|origin=https://exampple.com|user-agent=httpOK","https://5penj.site/upload/images/logo0.zip|referer=https://example.com/file/video2.ts/|origin=https://dexample.live","https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://con2021.blogspot.com/2023/07/2022.html|player-type=webplayer"]
 
 
 
 #EXTINF:-1 group-title="Group Name" tvg-logo="https://example.com/images/logo.jpeg", Video Name 1
 #EXTVLCOPT:http-player-type=browser
-https://example.com/file/video.html
+https://yamantv2024.blogspot.com/2024/03/blog-post.html?src=https://con2021.blogspot.com/2023/07/2022.html
 
 
 
