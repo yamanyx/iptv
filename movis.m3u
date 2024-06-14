@@ -6,6 +6,11 @@
 EXTVLCOPT:http-user-agent=..
 https://yamantv2024.blogspot.com/2024/05/blog-post_50.html
 
+#EXTINF:-1 group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYv9Q4ScJw_Y3bBd83Xi6Ewx0-mYzEv3406VDo-9zA3Q&s",ابحث عن مسلسلك او فيلم المفضل هنا
+#EXTVLCOPT:http-player-type=webplayer
+EXTVLCOPT:http-user-agent=..
+http://yamanx7.xyz/1/1.html
+
 #EXTINF:-1 group-title="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kxmXX6SLtlOl7n_cNyckrTPRad3yZ4kcBHsTN9iqSHxuw=s900-c-k-c0x00ffffff-no-rj", مسلسلات و افلام
 #EXTVLCOPT:http-player-type=webplayer
 EXTVLCOPT:http-user-agent=..
