@@ -28,8 +28,8 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" live="1" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS HD [VIP]",BEIN SPORTS NEWS
-http://echtirak.com:8080/tdn/tdn/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS" live="1" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/News-1.png" group-title="BEIN SPORTS HD [VIP]",BEIN SPORTS NEWS000
+https://blablatv.top/video/country/sports.php
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL" live="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS HD [VIP]",BEIN SPORTS GLOBAL
 http://echtirak.com:8080/tdn/tdn/58.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" live="1" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="BEIN SPORTS HD [VIP]",BEIN SPORTS 1
