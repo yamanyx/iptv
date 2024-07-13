@@ -1,6 +1,11 @@
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/31-1.jpg" group-title="sport web", الاخبارية
 #EXTVLCOPT:http-player-type=webplayer
 #EXTVLCOPT:http-referrer=https://www.aflam4you.net
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:27:3F:38&stream=153105&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.aflam4you.net/uploads/thumbs/31-1.jpg" group-title="sport web", الاخبارية
+#EXTVLCOPT:http-player-type=webplayer
+#EXTVLCOPT:http-referrer=https://www.aflam4you.nethttp://king4k.tv:80/play/live.php?mac=00:1A:79:C2:81:79&stream=278566&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" live="3" tvg-logo="https://www.softarabia.com/wp-content/uploads/beIN-SPORT-HD1.png" group-title="sport web", bein 1
